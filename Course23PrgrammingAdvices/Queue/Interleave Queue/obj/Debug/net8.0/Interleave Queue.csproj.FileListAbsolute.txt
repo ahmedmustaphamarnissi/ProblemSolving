@@ -1,0 +1,14 @@
+M:\C#\23\Queue\Interleave Queue\bin\Debug\net8.0\Interleave Queue.exe
+M:\C#\23\Queue\Interleave Queue\bin\Debug\net8.0\Interleave Queue.deps.json
+M:\C#\23\Queue\Interleave Queue\bin\Debug\net8.0\Interleave Queue.runtimeconfig.json
+M:\C#\23\Queue\Interleave Queue\bin\Debug\net8.0\Interleave Queue.dll
+M:\C#\23\Queue\Interleave Queue\bin\Debug\net8.0\Interleave Queue.pdb
+M:\C#\23\Queue\Interleave Queue\obj\Debug\net8.0\Interleave Queue.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Queue\Interleave Queue\obj\Debug\net8.0\Interleave Queue.AssemblyInfoInputs.cache
+M:\C#\23\Queue\Interleave Queue\obj\Debug\net8.0\Interleave Queue.AssemblyInfo.cs
+M:\C#\23\Queue\Interleave Queue\obj\Debug\net8.0\Interleave Queue.csproj.CoreCompileInputs.cache
+M:\C#\23\Queue\Interleave Queue\obj\Debug\net8.0\Interleave Queue.dll
+M:\C#\23\Queue\Interleave Queue\obj\Debug\net8.0\refint\Interleave Queue.dll
+M:\C#\23\Queue\Interleave Queue\obj\Debug\net8.0\Interleave Queue.pdb
+M:\C#\23\Queue\Interleave Queue\obj\Debug\net8.0\Interleave Queue.genruntimeconfig.cache
+M:\C#\23\Queue\Interleave Queue\obj\Debug\net8.0\ref\Interleave Queue.dll

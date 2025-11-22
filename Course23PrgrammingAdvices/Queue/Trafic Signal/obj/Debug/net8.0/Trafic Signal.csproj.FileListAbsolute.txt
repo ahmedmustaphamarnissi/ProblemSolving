@@ -1,0 +1,14 @@
+M:\C#\23\Queue\Trafic Signal\bin\Debug\net8.0\Trafic Signal.exe
+M:\C#\23\Queue\Trafic Signal\bin\Debug\net8.0\Trafic Signal.deps.json
+M:\C#\23\Queue\Trafic Signal\bin\Debug\net8.0\Trafic Signal.runtimeconfig.json
+M:\C#\23\Queue\Trafic Signal\bin\Debug\net8.0\Trafic Signal.dll
+M:\C#\23\Queue\Trafic Signal\bin\Debug\net8.0\Trafic Signal.pdb
+M:\C#\23\Queue\Trafic Signal\obj\Debug\net8.0\Trafic Signal.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Queue\Trafic Signal\obj\Debug\net8.0\Trafic Signal.AssemblyInfoInputs.cache
+M:\C#\23\Queue\Trafic Signal\obj\Debug\net8.0\Trafic Signal.AssemblyInfo.cs
+M:\C#\23\Queue\Trafic Signal\obj\Debug\net8.0\Trafic Signal.csproj.CoreCompileInputs.cache
+M:\C#\23\Queue\Trafic Signal\obj\Debug\net8.0\Trafic Signal.dll
+M:\C#\23\Queue\Trafic Signal\obj\Debug\net8.0\refint\Trafic Signal.dll
+M:\C#\23\Queue\Trafic Signal\obj\Debug\net8.0\Trafic Signal.pdb
+M:\C#\23\Queue\Trafic Signal\obj\Debug\net8.0\Trafic Signal.genruntimeconfig.cache
+M:\C#\23\Queue\Trafic Signal\obj\Debug\net8.0\ref\Trafic Signal.dll

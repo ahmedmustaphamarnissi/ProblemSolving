@@ -1,0 +1,14 @@
+M:\C#\23\HashSet\Dynamic Skill Matching\bin\Debug\net9.0\Dynamic Skill Matching.exe
+M:\C#\23\HashSet\Dynamic Skill Matching\bin\Debug\net9.0\Dynamic Skill Matching.deps.json
+M:\C#\23\HashSet\Dynamic Skill Matching\bin\Debug\net9.0\Dynamic Skill Matching.runtimeconfig.json
+M:\C#\23\HashSet\Dynamic Skill Matching\bin\Debug\net9.0\Dynamic Skill Matching.dll
+M:\C#\23\HashSet\Dynamic Skill Matching\bin\Debug\net9.0\Dynamic Skill Matching.pdb
+M:\C#\23\HashSet\Dynamic Skill Matching\obj\Debug\net9.0\Dynamic Skill Matching.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\HashSet\Dynamic Skill Matching\obj\Debug\net9.0\Dynamic Skill Matching.AssemblyInfoInputs.cache
+M:\C#\23\HashSet\Dynamic Skill Matching\obj\Debug\net9.0\Dynamic Skill Matching.AssemblyInfo.cs
+M:\C#\23\HashSet\Dynamic Skill Matching\obj\Debug\net9.0\Dynamic Skill Matching.csproj.CoreCompileInputs.cache
+M:\C#\23\HashSet\Dynamic Skill Matching\obj\Debug\net9.0\Dynamic Skill Matching.dll
+M:\C#\23\HashSet\Dynamic Skill Matching\obj\Debug\net9.0\refint\Dynamic Skill Matching.dll
+M:\C#\23\HashSet\Dynamic Skill Matching\obj\Debug\net9.0\Dynamic Skill Matching.pdb
+M:\C#\23\HashSet\Dynamic Skill Matching\obj\Debug\net9.0\Dynamic Skill Matching.genruntimeconfig.cache
+M:\C#\23\HashSet\Dynamic Skill Matching\obj\Debug\net9.0\ref\Dynamic Skill Matching.dll

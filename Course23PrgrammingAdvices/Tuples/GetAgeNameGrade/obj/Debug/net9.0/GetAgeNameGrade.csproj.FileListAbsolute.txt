@@ -1,0 +1,14 @@
+M:\C#\23\Jagged Array\GetAgeNameGrade\bin\Debug\net9.0\GetAgeNameGrade.exe
+M:\C#\23\Jagged Array\GetAgeNameGrade\bin\Debug\net9.0\GetAgeNameGrade.deps.json
+M:\C#\23\Jagged Array\GetAgeNameGrade\bin\Debug\net9.0\GetAgeNameGrade.runtimeconfig.json
+M:\C#\23\Jagged Array\GetAgeNameGrade\bin\Debug\net9.0\GetAgeNameGrade.dll
+M:\C#\23\Jagged Array\GetAgeNameGrade\bin\Debug\net9.0\GetAgeNameGrade.pdb
+M:\C#\23\Jagged Array\GetAgeNameGrade\obj\Debug\net9.0\GetAgeNameGrade.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Jagged Array\GetAgeNameGrade\obj\Debug\net9.0\GetAgeNameGrade.AssemblyInfoInputs.cache
+M:\C#\23\Jagged Array\GetAgeNameGrade\obj\Debug\net9.0\GetAgeNameGrade.AssemblyInfo.cs
+M:\C#\23\Jagged Array\GetAgeNameGrade\obj\Debug\net9.0\GetAgeNameGrade.csproj.CoreCompileInputs.cache
+M:\C#\23\Jagged Array\GetAgeNameGrade\obj\Debug\net9.0\GetAgeNameGrade.dll
+M:\C#\23\Jagged Array\GetAgeNameGrade\obj\Debug\net9.0\refint\GetAgeNameGrade.dll
+M:\C#\23\Jagged Array\GetAgeNameGrade\obj\Debug\net9.0\GetAgeNameGrade.pdb
+M:\C#\23\Jagged Array\GetAgeNameGrade\obj\Debug\net9.0\GetAgeNameGrade.genruntimeconfig.cache
+M:\C#\23\Jagged Array\GetAgeNameGrade\obj\Debug\net9.0\ref\GetAgeNameGrade.dll

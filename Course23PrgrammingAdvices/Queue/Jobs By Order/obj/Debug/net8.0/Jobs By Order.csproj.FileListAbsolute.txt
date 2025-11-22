@@ -1,0 +1,14 @@
+M:\C#\23\Queue\Jobs By Order\bin\Debug\net8.0\Jobs By Order.exe
+M:\C#\23\Queue\Jobs By Order\bin\Debug\net8.0\Jobs By Order.deps.json
+M:\C#\23\Queue\Jobs By Order\bin\Debug\net8.0\Jobs By Order.runtimeconfig.json
+M:\C#\23\Queue\Jobs By Order\bin\Debug\net8.0\Jobs By Order.dll
+M:\C#\23\Queue\Jobs By Order\bin\Debug\net8.0\Jobs By Order.pdb
+M:\C#\23\Queue\Jobs By Order\obj\Debug\net8.0\Jobs By Order.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Queue\Jobs By Order\obj\Debug\net8.0\Jobs By Order.AssemblyInfoInputs.cache
+M:\C#\23\Queue\Jobs By Order\obj\Debug\net8.0\Jobs By Order.AssemblyInfo.cs
+M:\C#\23\Queue\Jobs By Order\obj\Debug\net8.0\Jobs By Order.csproj.CoreCompileInputs.cache
+M:\C#\23\Queue\Jobs By Order\obj\Debug\net8.0\Jobs By Order.dll
+M:\C#\23\Queue\Jobs By Order\obj\Debug\net8.0\refint\Jobs By Order.dll
+M:\C#\23\Queue\Jobs By Order\obj\Debug\net8.0\Jobs By Order.pdb
+M:\C#\23\Queue\Jobs By Order\obj\Debug\net8.0\Jobs By Order.genruntimeconfig.cache
+M:\C#\23\Queue\Jobs By Order\obj\Debug\net8.0\ref\Jobs By Order.dll

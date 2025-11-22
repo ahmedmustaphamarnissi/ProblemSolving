@@ -1,0 +1,14 @@
+M:\C#\23\Dictionary\FindMajorityElement\bin\Debug\net9.0\FindMajorityElement.exe
+M:\C#\23\Dictionary\FindMajorityElement\bin\Debug\net9.0\FindMajorityElement.deps.json
+M:\C#\23\Dictionary\FindMajorityElement\bin\Debug\net9.0\FindMajorityElement.runtimeconfig.json
+M:\C#\23\Dictionary\FindMajorityElement\bin\Debug\net9.0\FindMajorityElement.dll
+M:\C#\23\Dictionary\FindMajorityElement\bin\Debug\net9.0\FindMajorityElement.pdb
+M:\C#\23\Dictionary\FindMajorityElement\obj\Debug\net9.0\FindMajorityElement.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Dictionary\FindMajorityElement\obj\Debug\net9.0\FindMajorityElement.AssemblyInfoInputs.cache
+M:\C#\23\Dictionary\FindMajorityElement\obj\Debug\net9.0\FindMajorityElement.AssemblyInfo.cs
+M:\C#\23\Dictionary\FindMajorityElement\obj\Debug\net9.0\FindMajorityElement.csproj.CoreCompileInputs.cache
+M:\C#\23\Dictionary\FindMajorityElement\obj\Debug\net9.0\FindMajorityElement.dll
+M:\C#\23\Dictionary\FindMajorityElement\obj\Debug\net9.0\refint\FindMajorityElement.dll
+M:\C#\23\Dictionary\FindMajorityElement\obj\Debug\net9.0\FindMajorityElement.pdb
+M:\C#\23\Dictionary\FindMajorityElement\obj\Debug\net9.0\FindMajorityElement.genruntimeconfig.cache
+M:\C#\23\Dictionary\FindMajorityElement\obj\Debug\net9.0\ref\FindMajorityElement.dll

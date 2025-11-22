@@ -1,0 +1,14 @@
+M:\C#\23\Queue\Task Scheduling\bin\Debug\net8.0\Task Scheduling.exe
+M:\C#\23\Queue\Task Scheduling\bin\Debug\net8.0\Task Scheduling.deps.json
+M:\C#\23\Queue\Task Scheduling\bin\Debug\net8.0\Task Scheduling.runtimeconfig.json
+M:\C#\23\Queue\Task Scheduling\bin\Debug\net8.0\Task Scheduling.dll
+M:\C#\23\Queue\Task Scheduling\bin\Debug\net8.0\Task Scheduling.pdb
+M:\C#\23\Queue\Task Scheduling\obj\Debug\net8.0\Task Scheduling.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Queue\Task Scheduling\obj\Debug\net8.0\Task Scheduling.AssemblyInfoInputs.cache
+M:\C#\23\Queue\Task Scheduling\obj\Debug\net8.0\Task Scheduling.AssemblyInfo.cs
+M:\C#\23\Queue\Task Scheduling\obj\Debug\net8.0\Task Scheduling.csproj.CoreCompileInputs.cache
+M:\C#\23\Queue\Task Scheduling\obj\Debug\net8.0\Task Scheduling.dll
+M:\C#\23\Queue\Task Scheduling\obj\Debug\net8.0\refint\Task Scheduling.dll
+M:\C#\23\Queue\Task Scheduling\obj\Debug\net8.0\Task Scheduling.pdb
+M:\C#\23\Queue\Task Scheduling\obj\Debug\net8.0\Task Scheduling.genruntimeconfig.cache
+M:\C#\23\Queue\Task Scheduling\obj\Debug\net8.0\ref\Task Scheduling.dll

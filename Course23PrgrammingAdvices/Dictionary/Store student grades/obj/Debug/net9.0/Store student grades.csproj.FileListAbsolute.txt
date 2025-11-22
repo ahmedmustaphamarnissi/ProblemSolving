@@ -1,0 +1,14 @@
+M:\C#\23\Dictionary\Store student grades\bin\Debug\net9.0\Store student grades.exe
+M:\C#\23\Dictionary\Store student grades\bin\Debug\net9.0\Store student grades.deps.json
+M:\C#\23\Dictionary\Store student grades\bin\Debug\net9.0\Store student grades.runtimeconfig.json
+M:\C#\23\Dictionary\Store student grades\bin\Debug\net9.0\Store student grades.dll
+M:\C#\23\Dictionary\Store student grades\bin\Debug\net9.0\Store student grades.pdb
+M:\C#\23\Dictionary\Store student grades\obj\Debug\net9.0\Store student grades.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Dictionary\Store student grades\obj\Debug\net9.0\Store student grades.AssemblyInfoInputs.cache
+M:\C#\23\Dictionary\Store student grades\obj\Debug\net9.0\Store student grades.AssemblyInfo.cs
+M:\C#\23\Dictionary\Store student grades\obj\Debug\net9.0\Store student grades.csproj.CoreCompileInputs.cache
+M:\C#\23\Dictionary\Store student grades\obj\Debug\net9.0\Store student grades.dll
+M:\C#\23\Dictionary\Store student grades\obj\Debug\net9.0\refint\Store student grades.dll
+M:\C#\23\Dictionary\Store student grades\obj\Debug\net9.0\Store student grades.pdb
+M:\C#\23\Dictionary\Store student grades\obj\Debug\net9.0\Store student grades.genruntimeconfig.cache
+M:\C#\23\Dictionary\Store student grades\obj\Debug\net9.0\ref\Store student grades.dll

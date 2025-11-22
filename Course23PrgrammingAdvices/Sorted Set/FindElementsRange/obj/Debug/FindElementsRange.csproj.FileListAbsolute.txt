@@ -1,0 +1,7 @@
+M:\C#\23\Sorted Set\FindElementsRange\bin\Debug\FindElementsRange.exe.config
+M:\C#\23\Sorted Set\FindElementsRange\bin\Debug\FindElementsRange.exe
+M:\C#\23\Sorted Set\FindElementsRange\bin\Debug\FindElementsRange.pdb
+M:\C#\23\Sorted Set\FindElementsRange\obj\Debug\FindElementsRange.csproj.AssemblyReference.cache
+M:\C#\23\Sorted Set\FindElementsRange\obj\Debug\FindElementsRange.csproj.CoreCompileInputs.cache
+M:\C#\23\Sorted Set\FindElementsRange\obj\Debug\FindElementsRange.exe
+M:\C#\23\Sorted Set\FindElementsRange\obj\Debug\FindElementsRange.pdb

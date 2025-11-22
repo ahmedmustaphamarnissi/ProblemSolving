@@ -1,0 +1,14 @@
+M:\C#\23\BitArray\Vote System\bin\Debug\net9.0\Vote System.exe
+M:\C#\23\BitArray\Vote System\bin\Debug\net9.0\Vote System.deps.json
+M:\C#\23\BitArray\Vote System\bin\Debug\net9.0\Vote System.runtimeconfig.json
+M:\C#\23\BitArray\Vote System\bin\Debug\net9.0\Vote System.dll
+M:\C#\23\BitArray\Vote System\bin\Debug\net9.0\Vote System.pdb
+M:\C#\23\BitArray\Vote System\obj\Debug\net9.0\Vote System.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\BitArray\Vote System\obj\Debug\net9.0\Vote System.AssemblyInfoInputs.cache
+M:\C#\23\BitArray\Vote System\obj\Debug\net9.0\Vote System.AssemblyInfo.cs
+M:\C#\23\BitArray\Vote System\obj\Debug\net9.0\Vote System.csproj.CoreCompileInputs.cache
+M:\C#\23\BitArray\Vote System\obj\Debug\net9.0\Vote System.dll
+M:\C#\23\BitArray\Vote System\obj\Debug\net9.0\refint\Vote System.dll
+M:\C#\23\BitArray\Vote System\obj\Debug\net9.0\Vote System.pdb
+M:\C#\23\BitArray\Vote System\obj\Debug\net9.0\Vote System.genruntimeconfig.cache
+M:\C#\23\BitArray\Vote System\obj\Debug\net9.0\ref\Vote System.dll

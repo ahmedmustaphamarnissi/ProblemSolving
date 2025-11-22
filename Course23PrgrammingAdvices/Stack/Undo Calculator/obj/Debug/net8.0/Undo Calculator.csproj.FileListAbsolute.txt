@@ -1,0 +1,14 @@
+M:\C#\23\Stack\Undo Calculator\bin\Debug\net8.0\Undo Calculator.exe
+M:\C#\23\Stack\Undo Calculator\bin\Debug\net8.0\Undo Calculator.deps.json
+M:\C#\23\Stack\Undo Calculator\bin\Debug\net8.0\Undo Calculator.runtimeconfig.json
+M:\C#\23\Stack\Undo Calculator\bin\Debug\net8.0\Undo Calculator.dll
+M:\C#\23\Stack\Undo Calculator\bin\Debug\net8.0\Undo Calculator.pdb
+M:\C#\23\Stack\Undo Calculator\obj\Debug\net8.0\Undo Calculator.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Stack\Undo Calculator\obj\Debug\net8.0\Undo Calculator.AssemblyInfoInputs.cache
+M:\C#\23\Stack\Undo Calculator\obj\Debug\net8.0\Undo Calculator.AssemblyInfo.cs
+M:\C#\23\Stack\Undo Calculator\obj\Debug\net8.0\Undo Calculator.csproj.CoreCompileInputs.cache
+M:\C#\23\Stack\Undo Calculator\obj\Debug\net8.0\Undo Calculator.dll
+M:\C#\23\Stack\Undo Calculator\obj\Debug\net8.0\refint\Undo Calculator.dll
+M:\C#\23\Stack\Undo Calculator\obj\Debug\net8.0\Undo Calculator.pdb
+M:\C#\23\Stack\Undo Calculator\obj\Debug\net8.0\Undo Calculator.genruntimeconfig.cache
+M:\C#\23\Stack\Undo Calculator\obj\Debug\net8.0\ref\Undo Calculator.dll

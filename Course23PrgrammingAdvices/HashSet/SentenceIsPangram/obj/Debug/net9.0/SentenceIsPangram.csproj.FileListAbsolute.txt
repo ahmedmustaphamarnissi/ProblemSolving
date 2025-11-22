@@ -1,0 +1,14 @@
+M:\C#\23\HashSet\SentenceIsPangram\bin\Debug\net9.0\SentenceIsPangram.exe
+M:\C#\23\HashSet\SentenceIsPangram\bin\Debug\net9.0\SentenceIsPangram.deps.json
+M:\C#\23\HashSet\SentenceIsPangram\bin\Debug\net9.0\SentenceIsPangram.runtimeconfig.json
+M:\C#\23\HashSet\SentenceIsPangram\bin\Debug\net9.0\SentenceIsPangram.dll
+M:\C#\23\HashSet\SentenceIsPangram\bin\Debug\net9.0\SentenceIsPangram.pdb
+M:\C#\23\HashSet\SentenceIsPangram\obj\Debug\net9.0\SentenceIsPangram.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\HashSet\SentenceIsPangram\obj\Debug\net9.0\SentenceIsPangram.AssemblyInfoInputs.cache
+M:\C#\23\HashSet\SentenceIsPangram\obj\Debug\net9.0\SentenceIsPangram.AssemblyInfo.cs
+M:\C#\23\HashSet\SentenceIsPangram\obj\Debug\net9.0\SentenceIsPangram.csproj.CoreCompileInputs.cache
+M:\C#\23\HashSet\SentenceIsPangram\obj\Debug\net9.0\SentenceIsPangram.dll
+M:\C#\23\HashSet\SentenceIsPangram\obj\Debug\net9.0\refint\SentenceIsPangram.dll
+M:\C#\23\HashSet\SentenceIsPangram\obj\Debug\net9.0\SentenceIsPangram.pdb
+M:\C#\23\HashSet\SentenceIsPangram\obj\Debug\net9.0\SentenceIsPangram.genruntimeconfig.cache
+M:\C#\23\HashSet\SentenceIsPangram\obj\Debug\net9.0\ref\SentenceIsPangram.dll

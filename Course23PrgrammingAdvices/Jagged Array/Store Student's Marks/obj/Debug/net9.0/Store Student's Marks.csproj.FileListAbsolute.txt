@@ -1,0 +1,14 @@
+M:\C#\23\Jagged Array\Store Student's Marks\bin\Debug\net9.0\Store Student's Marks.exe
+M:\C#\23\Jagged Array\Store Student's Marks\bin\Debug\net9.0\Store Student's Marks.deps.json
+M:\C#\23\Jagged Array\Store Student's Marks\bin\Debug\net9.0\Store Student's Marks.runtimeconfig.json
+M:\C#\23\Jagged Array\Store Student's Marks\bin\Debug\net9.0\Store Student's Marks.dll
+M:\C#\23\Jagged Array\Store Student's Marks\bin\Debug\net9.0\Store Student's Marks.pdb
+M:\C#\23\Jagged Array\Store Student's Marks\obj\Debug\net9.0\Store Student's Marks.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Jagged Array\Store Student's Marks\obj\Debug\net9.0\Store Student's Marks.AssemblyInfoInputs.cache
+M:\C#\23\Jagged Array\Store Student's Marks\obj\Debug\net9.0\Store Student's Marks.AssemblyInfo.cs
+M:\C#\23\Jagged Array\Store Student's Marks\obj\Debug\net9.0\Store Student's Marks.csproj.CoreCompileInputs.cache
+M:\C#\23\Jagged Array\Store Student's Marks\obj\Debug\net9.0\Store Student's Marks.dll
+M:\C#\23\Jagged Array\Store Student's Marks\obj\Debug\net9.0\refint\Store Student's Marks.dll
+M:\C#\23\Jagged Array\Store Student's Marks\obj\Debug\net9.0\Store Student's Marks.pdb
+M:\C#\23\Jagged Array\Store Student's Marks\obj\Debug\net9.0\Store Student's Marks.genruntimeconfig.cache
+M:\C#\23\Jagged Array\Store Student's Marks\obj\Debug\net9.0\ref\Store Student's Marks.dll

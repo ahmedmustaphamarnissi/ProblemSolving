@@ -1,0 +1,14 @@
+M:\C#\23\Queue\Ticketing System simulaion\bin\Debug\net8.0\Ticketing System simulaion.exe
+M:\C#\23\Queue\Ticketing System simulaion\bin\Debug\net8.0\Ticketing System simulaion.deps.json
+M:\C#\23\Queue\Ticketing System simulaion\bin\Debug\net8.0\Ticketing System simulaion.runtimeconfig.json
+M:\C#\23\Queue\Ticketing System simulaion\bin\Debug\net8.0\Ticketing System simulaion.dll
+M:\C#\23\Queue\Ticketing System simulaion\bin\Debug\net8.0\Ticketing System simulaion.pdb
+M:\C#\23\Queue\Ticketing System simulaion\obj\Debug\net8.0\Ticketing System simulaion.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Queue\Ticketing System simulaion\obj\Debug\net8.0\Ticketing System simulaion.AssemblyInfoInputs.cache
+M:\C#\23\Queue\Ticketing System simulaion\obj\Debug\net8.0\Ticketing System simulaion.AssemblyInfo.cs
+M:\C#\23\Queue\Ticketing System simulaion\obj\Debug\net8.0\Ticketing System simulaion.csproj.CoreCompileInputs.cache
+M:\C#\23\Queue\Ticketing System simulaion\obj\Debug\net8.0\Ticketing System simulaion.dll
+M:\C#\23\Queue\Ticketing System simulaion\obj\Debug\net8.0\refint\Ticketing System simulaion.dll
+M:\C#\23\Queue\Ticketing System simulaion\obj\Debug\net8.0\Ticketing System simulaion.pdb
+M:\C#\23\Queue\Ticketing System simulaion\obj\Debug\net8.0\Ticketing System simulaion.genruntimeconfig.cache
+M:\C#\23\Queue\Ticketing System simulaion\obj\Debug\net8.0\ref\Ticketing System simulaion.dll

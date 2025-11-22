@@ -1,0 +1,14 @@
+M:\C#\23\Dictionary\Count Words Frequency\bin\Debug\net9.0\Count Words Frequency.exe
+M:\C#\23\Dictionary\Count Words Frequency\bin\Debug\net9.0\Count Words Frequency.deps.json
+M:\C#\23\Dictionary\Count Words Frequency\bin\Debug\net9.0\Count Words Frequency.runtimeconfig.json
+M:\C#\23\Dictionary\Count Words Frequency\bin\Debug\net9.0\Count Words Frequency.dll
+M:\C#\23\Dictionary\Count Words Frequency\bin\Debug\net9.0\Count Words Frequency.pdb
+M:\C#\23\Dictionary\Count Words Frequency\obj\Debug\net9.0\Count Words Frequency.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Dictionary\Count Words Frequency\obj\Debug\net9.0\Count Words Frequency.AssemblyInfoInputs.cache
+M:\C#\23\Dictionary\Count Words Frequency\obj\Debug\net9.0\Count Words Frequency.AssemblyInfo.cs
+M:\C#\23\Dictionary\Count Words Frequency\obj\Debug\net9.0\Count Words Frequency.csproj.CoreCompileInputs.cache
+M:\C#\23\Dictionary\Count Words Frequency\obj\Debug\net9.0\Count Words Frequency.dll
+M:\C#\23\Dictionary\Count Words Frequency\obj\Debug\net9.0\refint\Count Words Frequency.dll
+M:\C#\23\Dictionary\Count Words Frequency\obj\Debug\net9.0\Count Words Frequency.pdb
+M:\C#\23\Dictionary\Count Words Frequency\obj\Debug\net9.0\Count Words Frequency.genruntimeconfig.cache
+M:\C#\23\Dictionary\Count Words Frequency\obj\Debug\net9.0\ref\Count Words Frequency.dll

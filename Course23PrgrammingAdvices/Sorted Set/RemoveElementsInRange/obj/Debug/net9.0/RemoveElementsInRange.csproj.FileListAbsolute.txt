@@ -1,0 +1,14 @@
+M:\C#\23\Sorted Set\RemoveElementsInRange\bin\Debug\net9.0\RemoveElementsInRange.exe
+M:\C#\23\Sorted Set\RemoveElementsInRange\bin\Debug\net9.0\RemoveElementsInRange.deps.json
+M:\C#\23\Sorted Set\RemoveElementsInRange\bin\Debug\net9.0\RemoveElementsInRange.runtimeconfig.json
+M:\C#\23\Sorted Set\RemoveElementsInRange\bin\Debug\net9.0\RemoveElementsInRange.dll
+M:\C#\23\Sorted Set\RemoveElementsInRange\bin\Debug\net9.0\RemoveElementsInRange.pdb
+M:\C#\23\Sorted Set\RemoveElementsInRange\obj\Debug\net9.0\RemoveElementsInRange.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Sorted Set\RemoveElementsInRange\obj\Debug\net9.0\RemoveElementsInRange.AssemblyInfoInputs.cache
+M:\C#\23\Sorted Set\RemoveElementsInRange\obj\Debug\net9.0\RemoveElementsInRange.AssemblyInfo.cs
+M:\C#\23\Sorted Set\RemoveElementsInRange\obj\Debug\net9.0\RemoveElementsInRange.csproj.CoreCompileInputs.cache
+M:\C#\23\Sorted Set\RemoveElementsInRange\obj\Debug\net9.0\RemoveElementsInRange.dll
+M:\C#\23\Sorted Set\RemoveElementsInRange\obj\Debug\net9.0\refint\RemoveElementsInRange.dll
+M:\C#\23\Sorted Set\RemoveElementsInRange\obj\Debug\net9.0\RemoveElementsInRange.pdb
+M:\C#\23\Sorted Set\RemoveElementsInRange\obj\Debug\net9.0\RemoveElementsInRange.genruntimeconfig.cache
+M:\C#\23\Sorted Set\RemoveElementsInRange\obj\Debug\net9.0\ref\RemoveElementsInRange.dll

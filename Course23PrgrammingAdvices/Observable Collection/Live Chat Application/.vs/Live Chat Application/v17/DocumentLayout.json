@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\C#\\23\\Observable Collection\\Live Chat Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91846643-53D2-4F75-879D-9D037CE9AA22}|Live Chat Application.csproj|m:\\c#\\23\\observable collection\\live chat application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91846643-53D2-4F75-879D-9D037CE9AA22}|Live Chat Application.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\C#\\23\\Observable Collection\\Live Chat Application\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "M:\\C#\\23\\Observable Collection\\Live Chat Application\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:03:33.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+M:\C#\23\Sorted Set\RemoveElementsGreaterThanValue\bin\Debug\net9.0\RemoveElementsGreaterThanValue.exe
+M:\C#\23\Sorted Set\RemoveElementsGreaterThanValue\bin\Debug\net9.0\RemoveElementsGreaterThanValue.deps.json
+M:\C#\23\Sorted Set\RemoveElementsGreaterThanValue\bin\Debug\net9.0\RemoveElementsGreaterThanValue.runtimeconfig.json
+M:\C#\23\Sorted Set\RemoveElementsGreaterThanValue\bin\Debug\net9.0\RemoveElementsGreaterThanValue.dll
+M:\C#\23\Sorted Set\RemoveElementsGreaterThanValue\bin\Debug\net9.0\RemoveElementsGreaterThanValue.pdb
+M:\C#\23\Sorted Set\RemoveElementsGreaterThanValue\obj\Debug\net9.0\RemoveElementsGreaterThanValue.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Sorted Set\RemoveElementsGreaterThanValue\obj\Debug\net9.0\RemoveElementsGreaterThanValue.AssemblyInfoInputs.cache
+M:\C#\23\Sorted Set\RemoveElementsGreaterThanValue\obj\Debug\net9.0\RemoveElementsGreaterThanValue.AssemblyInfo.cs
+M:\C#\23\Sorted Set\RemoveElementsGreaterThanValue\obj\Debug\net9.0\RemoveElementsGreaterThanValue.csproj.CoreCompileInputs.cache
+M:\C#\23\Sorted Set\RemoveElementsGreaterThanValue\obj\Debug\net9.0\RemoveElementsGreaterThanValue.dll
+M:\C#\23\Sorted Set\RemoveElementsGreaterThanValue\obj\Debug\net9.0\refint\RemoveElementsGreaterThanValue.dll
+M:\C#\23\Sorted Set\RemoveElementsGreaterThanValue\obj\Debug\net9.0\RemoveElementsGreaterThanValue.pdb
+M:\C#\23\Sorted Set\RemoveElementsGreaterThanValue\obj\Debug\net9.0\RemoveElementsGreaterThanValue.genruntimeconfig.cache
+M:\C#\23\Sorted Set\RemoveElementsGreaterThanValue\obj\Debug\net9.0\ref\RemoveElementsGreaterThanValue.dll

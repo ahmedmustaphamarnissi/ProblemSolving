@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\leet code\\Find the Index of the First Occurrence in a String\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{935DAFEA-F6D3-47BE-8A67-4B1913E2EECF}|Find the Index of the First Occurrence in a String.vcxproj|M:\\PS\\leet code\\Find the Index of the First Occurrence in a String\\Find the Index of the First Occurrence in a String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{935DAFEA-F6D3-47BE-8A67-4B1913E2EECF}|Find the Index of the First Occurrence in a String.vcxproj|solutionrelative:Find the Index of the First Occurrence in a String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Find the Index of the First Occurrence in a String.cpp",
+              "DocumentMoniker": "M:\\PS\\leet code\\Find the Index of the First Occurrence in a String\\Find the Index of the First Occurrence in a String.cpp",
+              "RelativeDocumentMoniker": "Find the Index of the First Occurrence in a String.cpp",
+              "ToolTip": "M:\\PS\\leet code\\Find the Index of the First Occurrence in a String\\Find the Index of the First Occurrence in a String.cpp",
+              "RelativeToolTip": "Find the Index of the First Occurrence in a String.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-22T16:11:17.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

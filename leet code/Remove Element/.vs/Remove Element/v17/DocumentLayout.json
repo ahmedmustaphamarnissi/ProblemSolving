@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\leet code\\Remove Element\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD4574C-6C3F-4A8E-9BB4-01E92F9DDFF3}|Remove Element.vcxproj|M:\\PS\\leet code\\Remove Element\\Remove Element.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AD4574C-6C3F-4A8E-9BB4-01E92F9DDFF3}|Remove Element.vcxproj|solutionrelative:Remove Element.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Remove Element.cpp",
+              "DocumentMoniker": "M:\\PS\\leet code\\Remove Element\\Remove Element.cpp",
+              "RelativeDocumentMoniker": "Remove Element.cpp",
+              "ToolTip": "M:\\PS\\leet code\\Remove Element\\Remove Element.cpp",
+              "RelativeToolTip": "Remove Element.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-22T16:14:57.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+M:\C#\23\Queue\Rotate a Queue\obj\Debug\net8.0\Rotate a Queue.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Queue\Rotate a Queue\obj\Debug\net8.0\Rotate a Queue.AssemblyInfoInputs.cache
+M:\C#\23\Queue\Rotate a Queue\obj\Debug\net8.0\Rotate a Queue.AssemblyInfo.cs
+M:\C#\23\Queue\Rotate a Queue\obj\Debug\net8.0\Rotate a Queue.csproj.CoreCompileInputs.cache
+M:\C#\23\Queue\Rotate a Queue\bin\Debug\net8.0\Rotate a Queue.exe
+M:\C#\23\Queue\Rotate a Queue\bin\Debug\net8.0\Rotate a Queue.deps.json
+M:\C#\23\Queue\Rotate a Queue\bin\Debug\net8.0\Rotate a Queue.runtimeconfig.json
+M:\C#\23\Queue\Rotate a Queue\bin\Debug\net8.0\Rotate a Queue.dll
+M:\C#\23\Queue\Rotate a Queue\bin\Debug\net8.0\Rotate a Queue.pdb
+M:\C#\23\Queue\Rotate a Queue\obj\Debug\net8.0\Rotate a Queue.dll
+M:\C#\23\Queue\Rotate a Queue\obj\Debug\net8.0\refint\Rotate a Queue.dll
+M:\C#\23\Queue\Rotate a Queue\obj\Debug\net8.0\Rotate a Queue.pdb
+M:\C#\23\Queue\Rotate a Queue\obj\Debug\net8.0\Rotate a Queue.genruntimeconfig.cache
+M:\C#\23\Queue\Rotate a Queue\obj\Debug\net8.0\ref\Rotate a Queue.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event TimeLine", "Event TimeLine.csproj", "{CC946050-1062-4C04-B505-44773711EE11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC946050-1062-4C04-B505-44773711EE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC946050-1062-4C04-B505-44773711EE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC946050-1062-4C04-B505-44773711EE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC946050-1062-4C04-B505-44773711EE11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4CD6E5E-1DC3-4814-85F0-502ED0757F70}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+M:\C#\23\Queue\Merge Two Sorted Queue\bin\Debug\net8.0\Merge Two Sorted Queue.exe
+M:\C#\23\Queue\Merge Two Sorted Queue\bin\Debug\net8.0\Merge Two Sorted Queue.deps.json
+M:\C#\23\Queue\Merge Two Sorted Queue\bin\Debug\net8.0\Merge Two Sorted Queue.runtimeconfig.json
+M:\C#\23\Queue\Merge Two Sorted Queue\bin\Debug\net8.0\Merge Two Sorted Queue.dll
+M:\C#\23\Queue\Merge Two Sorted Queue\bin\Debug\net8.0\Merge Two Sorted Queue.pdb
+M:\C#\23\Queue\Merge Two Sorted Queue\obj\Debug\net8.0\Merge Two Sorted Queue.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Queue\Merge Two Sorted Queue\obj\Debug\net8.0\Merge Two Sorted Queue.AssemblyInfoInputs.cache
+M:\C#\23\Queue\Merge Two Sorted Queue\obj\Debug\net8.0\Merge Two Sorted Queue.AssemblyInfo.cs
+M:\C#\23\Queue\Merge Two Sorted Queue\obj\Debug\net8.0\Merge Two Sorted Queue.csproj.CoreCompileInputs.cache
+M:\C#\23\Queue\Merge Two Sorted Queue\obj\Debug\net8.0\Merge Two Sorted Queue.dll
+M:\C#\23\Queue\Merge Two Sorted Queue\obj\Debug\net8.0\refint\Merge Two Sorted Queue.dll
+M:\C#\23\Queue\Merge Two Sorted Queue\obj\Debug\net8.0\Merge Two Sorted Queue.pdb
+M:\C#\23\Queue\Merge Two Sorted Queue\obj\Debug\net8.0\Merge Two Sorted Queue.genruntimeconfig.cache
+M:\C#\23\Queue\Merge Two Sorted Queue\obj\Debug\net8.0\ref\Merge Two Sorted Queue.dll

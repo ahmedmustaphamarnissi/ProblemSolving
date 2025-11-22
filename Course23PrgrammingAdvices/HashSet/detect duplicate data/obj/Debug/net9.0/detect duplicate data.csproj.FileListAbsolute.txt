@@ -1,0 +1,14 @@
+M:\C#\23\HashSet\detect duplicate data\bin\Debug\net9.0\detect duplicate data.exe
+M:\C#\23\HashSet\detect duplicate data\bin\Debug\net9.0\detect duplicate data.deps.json
+M:\C#\23\HashSet\detect duplicate data\bin\Debug\net9.0\detect duplicate data.runtimeconfig.json
+M:\C#\23\HashSet\detect duplicate data\bin\Debug\net9.0\detect duplicate data.dll
+M:\C#\23\HashSet\detect duplicate data\bin\Debug\net9.0\detect duplicate data.pdb
+M:\C#\23\HashSet\detect duplicate data\obj\Debug\net9.0\detect duplicate data.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\HashSet\detect duplicate data\obj\Debug\net9.0\detect duplicate data.AssemblyInfoInputs.cache
+M:\C#\23\HashSet\detect duplicate data\obj\Debug\net9.0\detect duplicate data.AssemblyInfo.cs
+M:\C#\23\HashSet\detect duplicate data\obj\Debug\net9.0\detect duplicate data.csproj.CoreCompileInputs.cache
+M:\C#\23\HashSet\detect duplicate data\obj\Debug\net9.0\detect duplicate data.dll
+M:\C#\23\HashSet\detect duplicate data\obj\Debug\net9.0\refint\detect duplicate data.dll
+M:\C#\23\HashSet\detect duplicate data\obj\Debug\net9.0\detect duplicate data.pdb
+M:\C#\23\HashSet\detect duplicate data\obj\Debug\net9.0\detect duplicate data.genruntimeconfig.cache
+M:\C#\23\HashSet\detect duplicate data\obj\Debug\net9.0\ref\detect duplicate data.dll

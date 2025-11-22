@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\C#\\23\\Queue\\Trafic Signal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9C9BCE-A272-40BF-8D0E-524F9C3AE1D5}|Trafic Signal.csproj|m:\\c#\\23\\queue\\trafic signal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9C9BCE-A272-40BF-8D0E-524F9C3AE1D5}|Trafic Signal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\C#\\23\\Queue\\Trafic Signal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "M:\\C#\\23\\Queue\\Trafic Signal\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T16:30:51.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

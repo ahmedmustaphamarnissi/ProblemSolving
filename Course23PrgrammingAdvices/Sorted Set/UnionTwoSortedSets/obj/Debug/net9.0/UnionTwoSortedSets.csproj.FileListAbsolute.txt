@@ -1,0 +1,14 @@
+M:\C#\23\Sorted Set\UnionTwoSortedSets\obj\Debug\net9.0\UnionTwoSortedSets.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Sorted Set\UnionTwoSortedSets\obj\Debug\net9.0\UnionTwoSortedSets.AssemblyInfoInputs.cache
+M:\C#\23\Sorted Set\UnionTwoSortedSets\obj\Debug\net9.0\UnionTwoSortedSets.AssemblyInfo.cs
+M:\C#\23\Sorted Set\UnionTwoSortedSets\obj\Debug\net9.0\UnionTwoSortedSets.csproj.CoreCompileInputs.cache
+M:\C#\23\Sorted Set\UnionTwoSortedSets\bin\Debug\net9.0\UnionTwoSortedSets.exe
+M:\C#\23\Sorted Set\UnionTwoSortedSets\bin\Debug\net9.0\UnionTwoSortedSets.deps.json
+M:\C#\23\Sorted Set\UnionTwoSortedSets\bin\Debug\net9.0\UnionTwoSortedSets.runtimeconfig.json
+M:\C#\23\Sorted Set\UnionTwoSortedSets\bin\Debug\net9.0\UnionTwoSortedSets.dll
+M:\C#\23\Sorted Set\UnionTwoSortedSets\bin\Debug\net9.0\UnionTwoSortedSets.pdb
+M:\C#\23\Sorted Set\UnionTwoSortedSets\obj\Debug\net9.0\UnionTwoSortedSets.dll
+M:\C#\23\Sorted Set\UnionTwoSortedSets\obj\Debug\net9.0\refint\UnionTwoSortedSets.dll
+M:\C#\23\Sorted Set\UnionTwoSortedSets\obj\Debug\net9.0\UnionTwoSortedSets.pdb
+M:\C#\23\Sorted Set\UnionTwoSortedSets\obj\Debug\net9.0\UnionTwoSortedSets.genruntimeconfig.cache
+M:\C#\23\Sorted Set\UnionTwoSortedSets\obj\Debug\net9.0\ref\UnionTwoSortedSets.dll

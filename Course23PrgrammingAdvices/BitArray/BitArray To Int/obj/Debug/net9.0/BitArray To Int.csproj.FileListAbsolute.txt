@@ -1,0 +1,14 @@
+M:\C#\23\BitArray\BitArray To Int\bin\Debug\net9.0\BitArray To Int.exe
+M:\C#\23\BitArray\BitArray To Int\bin\Debug\net9.0\BitArray To Int.deps.json
+M:\C#\23\BitArray\BitArray To Int\bin\Debug\net9.0\BitArray To Int.runtimeconfig.json
+M:\C#\23\BitArray\BitArray To Int\bin\Debug\net9.0\BitArray To Int.dll
+M:\C#\23\BitArray\BitArray To Int\bin\Debug\net9.0\BitArray To Int.pdb
+M:\C#\23\BitArray\BitArray To Int\obj\Debug\net9.0\BitArray To Int.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\BitArray\BitArray To Int\obj\Debug\net9.0\BitArray To Int.AssemblyInfoInputs.cache
+M:\C#\23\BitArray\BitArray To Int\obj\Debug\net9.0\BitArray To Int.AssemblyInfo.cs
+M:\C#\23\BitArray\BitArray To Int\obj\Debug\net9.0\BitArray To Int.csproj.CoreCompileInputs.cache
+M:\C#\23\BitArray\BitArray To Int\obj\Debug\net9.0\BitArray To Int.dll
+M:\C#\23\BitArray\BitArray To Int\obj\Debug\net9.0\refint\BitArray To Int.dll
+M:\C#\23\BitArray\BitArray To Int\obj\Debug\net9.0\BitArray To Int.pdb
+M:\C#\23\BitArray\BitArray To Int\obj\Debug\net9.0\BitArray To Int.genruntimeconfig.cache
+M:\C#\23\BitArray\BitArray To Int\obj\Debug\net9.0\ref\BitArray To Int.dll

@@ -1,0 +1,14 @@
+M:\C#\23\Stack\Reverce String\bin\Debug\net8.0\Reverce String.exe
+M:\C#\23\Stack\Reverce String\bin\Debug\net8.0\Reverce String.deps.json
+M:\C#\23\Stack\Reverce String\bin\Debug\net8.0\Reverce String.runtimeconfig.json
+M:\C#\23\Stack\Reverce String\bin\Debug\net8.0\Reverce String.dll
+M:\C#\23\Stack\Reverce String\bin\Debug\net8.0\Reverce String.pdb
+M:\C#\23\Stack\Reverce String\obj\Debug\net8.0\Reverce String.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Stack\Reverce String\obj\Debug\net8.0\Reverce String.AssemblyInfoInputs.cache
+M:\C#\23\Stack\Reverce String\obj\Debug\net8.0\Reverce String.AssemblyInfo.cs
+M:\C#\23\Stack\Reverce String\obj\Debug\net8.0\Reverce String.csproj.CoreCompileInputs.cache
+M:\C#\23\Stack\Reverce String\obj\Debug\net8.0\Reverce String.dll
+M:\C#\23\Stack\Reverce String\obj\Debug\net8.0\refint\Reverce String.dll
+M:\C#\23\Stack\Reverce String\obj\Debug\net8.0\Reverce String.pdb
+M:\C#\23\Stack\Reverce String\obj\Debug\net8.0\Reverce String.genruntimeconfig.cache
+M:\C#\23\Stack\Reverce String\obj\Debug\net8.0\ref\Reverce String.dll

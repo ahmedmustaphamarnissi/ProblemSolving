@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Generate Binary/1.0.0": {
+        "runtime": {
+          "Generate Binary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generate Binary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
