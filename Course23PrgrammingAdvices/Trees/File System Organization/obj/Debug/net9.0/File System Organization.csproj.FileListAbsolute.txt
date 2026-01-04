@@ -1,0 +1,15 @@
+M:\PS\leet code\File System Organization\bin\Debug\net9.0\File System Organization.exe
+M:\PS\leet code\File System Organization\bin\Debug\net9.0\File System Organization.deps.json
+M:\PS\leet code\File System Organization\bin\Debug\net9.0\File System Organization.runtimeconfig.json
+M:\PS\leet code\File System Organization\bin\Debug\net9.0\File System Organization.dll
+M:\PS\leet code\File System Organization\bin\Debug\net9.0\File System Organization.pdb
+M:\PS\leet code\File System Organization\obj\Debug\net9.0\File System Organization.GeneratedMSBuildEditorConfig.editorconfig
+M:\PS\leet code\File System Organization\obj\Debug\net9.0\File System Organization.AssemblyInfoInputs.cache
+M:\PS\leet code\File System Organization\obj\Debug\net9.0\File System Organization.AssemblyInfo.cs
+M:\PS\leet code\File System Organization\obj\Debug\net9.0\File System Organization.csproj.CoreCompileInputs.cache
+M:\PS\leet code\File System Organization\obj\Debug\net9.0\File System Organization.sourcelink.json
+M:\PS\leet code\File System Organization\obj\Debug\net9.0\File System Organization.dll
+M:\PS\leet code\File System Organization\obj\Debug\net9.0\refint\File System Organization.dll
+M:\PS\leet code\File System Organization\obj\Debug\net9.0\File System Organization.pdb
+M:\PS\leet code\File System Organization\obj\Debug\net9.0\File System Organization.genruntimeconfig.cache
+M:\PS\leet code\File System Organization\obj\Debug\net9.0\ref\File System Organization.dll

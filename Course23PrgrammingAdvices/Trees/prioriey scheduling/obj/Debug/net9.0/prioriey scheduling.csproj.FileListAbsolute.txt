@@ -1,0 +1,14 @@
+M:\C#\23\Trees\prioriey scheduling\bin\Debug\net9.0\prioriey scheduling.exe
+M:\C#\23\Trees\prioriey scheduling\bin\Debug\net9.0\prioriey scheduling.deps.json
+M:\C#\23\Trees\prioriey scheduling\bin\Debug\net9.0\prioriey scheduling.runtimeconfig.json
+M:\C#\23\Trees\prioriey scheduling\bin\Debug\net9.0\prioriey scheduling.dll
+M:\C#\23\Trees\prioriey scheduling\bin\Debug\net9.0\prioriey scheduling.pdb
+M:\C#\23\Trees\prioriey scheduling\obj\Debug\net9.0\prioriey scheduling.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Trees\prioriey scheduling\obj\Debug\net9.0\prioriey scheduling.AssemblyInfoInputs.cache
+M:\C#\23\Trees\prioriey scheduling\obj\Debug\net9.0\prioriey scheduling.AssemblyInfo.cs
+M:\C#\23\Trees\prioriey scheduling\obj\Debug\net9.0\prioriey scheduling.csproj.CoreCompileInputs.cache
+M:\C#\23\Trees\prioriey scheduling\obj\Debug\net9.0\prioriey scheduling.dll
+M:\C#\23\Trees\prioriey scheduling\obj\Debug\net9.0\refint\prioriey scheduling.dll
+M:\C#\23\Trees\prioriey scheduling\obj\Debug\net9.0\prioriey scheduling.pdb
+M:\C#\23\Trees\prioriey scheduling\obj\Debug\net9.0\prioriey scheduling.genruntimeconfig.cache
+M:\C#\23\Trees\prioriey scheduling\obj\Debug\net9.0\ref\prioriey scheduling.dll

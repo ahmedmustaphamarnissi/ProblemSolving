@@ -1,0 +1,14 @@
+M:\C#\23\Trees\Decision Making\bin\Debug\net9.0\Decision Making.exe
+M:\C#\23\Trees\Decision Making\bin\Debug\net9.0\Decision Making.deps.json
+M:\C#\23\Trees\Decision Making\bin\Debug\net9.0\Decision Making.runtimeconfig.json
+M:\C#\23\Trees\Decision Making\bin\Debug\net9.0\Decision Making.dll
+M:\C#\23\Trees\Decision Making\bin\Debug\net9.0\Decision Making.pdb
+M:\C#\23\Trees\Decision Making\obj\Debug\net9.0\Decision Making.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Trees\Decision Making\obj\Debug\net9.0\Decision Making.AssemblyInfoInputs.cache
+M:\C#\23\Trees\Decision Making\obj\Debug\net9.0\Decision Making.AssemblyInfo.cs
+M:\C#\23\Trees\Decision Making\obj\Debug\net9.0\Decision Making.csproj.CoreCompileInputs.cache
+M:\C#\23\Trees\Decision Making\obj\Debug\net9.0\Decision Making.dll
+M:\C#\23\Trees\Decision Making\obj\Debug\net9.0\refint\Decision Making.dll
+M:\C#\23\Trees\Decision Making\obj\Debug\net9.0\Decision Making.pdb
+M:\C#\23\Trees\Decision Making\obj\Debug\net9.0\Decision Making.genruntimeconfig.cache
+M:\C#\23\Trees\Decision Making\obj\Debug\net9.0\ref\Decision Making.dll

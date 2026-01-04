@@ -1,0 +1,14 @@
+M:\C#\23\Trees\Hierarchical Employee Management\bin\Debug\net9.0\Hierarchical Employee Management.exe
+M:\C#\23\Trees\Hierarchical Employee Management\bin\Debug\net9.0\Hierarchical Employee Management.deps.json
+M:\C#\23\Trees\Hierarchical Employee Management\bin\Debug\net9.0\Hierarchical Employee Management.runtimeconfig.json
+M:\C#\23\Trees\Hierarchical Employee Management\bin\Debug\net9.0\Hierarchical Employee Management.dll
+M:\C#\23\Trees\Hierarchical Employee Management\bin\Debug\net9.0\Hierarchical Employee Management.pdb
+M:\C#\23\Trees\Hierarchical Employee Management\obj\Debug\net9.0\Hierarchical Employee Management.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Trees\Hierarchical Employee Management\obj\Debug\net9.0\Hierarchical Employee Management.AssemblyInfoInputs.cache
+M:\C#\23\Trees\Hierarchical Employee Management\obj\Debug\net9.0\Hierarchical Employee Management.AssemblyInfo.cs
+M:\C#\23\Trees\Hierarchical Employee Management\obj\Debug\net9.0\Hierarchical Employee Management.csproj.CoreCompileInputs.cache
+M:\C#\23\Trees\Hierarchical Employee Management\obj\Debug\net9.0\Hierarchical Employee Management.dll
+M:\C#\23\Trees\Hierarchical Employee Management\obj\Debug\net9.0\refint\Hierarchical Employee Management.dll
+M:\C#\23\Trees\Hierarchical Employee Management\obj\Debug\net9.0\Hierarchical Employee Management.pdb
+M:\C#\23\Trees\Hierarchical Employee Management\obj\Debug\net9.0\Hierarchical Employee Management.genruntimeconfig.cache
+M:\C#\23\Trees\Hierarchical Employee Management\obj\Debug\net9.0\ref\Hierarchical Employee Management.dll
