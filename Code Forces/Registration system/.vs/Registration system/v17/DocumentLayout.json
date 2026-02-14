@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "M:\\c\u002B\u002B\\PS\\Code Forces\\Registration system\\",
+  "WorkspaceRootPath": "M:\\PS\\Code Forces\\Registration system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6369CA0-A654-438A-B088-2AA12A7DD316}|Registration system.vcxproj|M:\\c\u002B\u002B\\PS\\Code Forces\\Registration system\\Registration system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F6369CA0-A654-438A-B088-2AA12A7DD316}|Registration system.vcxproj|M:\\PS\\Code Forces\\Registration system\\Registration system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F6369CA0-A654-438A-B088-2AA12A7DD316}|Registration system.vcxproj|solutionrelative:Registration system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Registration system.cpp",
-              "DocumentMoniker": "M:\\c\u002B\u002B\\PS\\Code Forces\\Registration system\\Registration system.cpp",
+              "DocumentMoniker": "M:\\PS\\Code Forces\\Registration system\\Registration system.cpp",
               "RelativeDocumentMoniker": "Registration system.cpp",
-              "ToolTip": "M:\\c\u002B\u002B\\PS\\Code Forces\\Registration system\\Registration system.cpp",
+              "ToolTip": "M:\\PS\\Code Forces\\Registration system\\Registration system.cpp",
               "RelativeToolTip": "Registration system.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-17T16:45:46.313Z",
               "EditorCaption": ""

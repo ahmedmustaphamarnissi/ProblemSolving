@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\Code Forces\\String Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3C32EC-5D20-4FEC-999B-4C1443865114}|String Task.vcxproj|M:\\PS\\Code Forces\\String Task\\String Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F3C32EC-5D20-4FEC-999B-4C1443865114}|String Task.vcxproj|solutionrelative:String Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "String Task.cpp",
+              "DocumentMoniker": "M:\\PS\\Code Forces\\String Task\\String Task.cpp",
+              "RelativeDocumentMoniker": "String Task.cpp",
+              "ToolTip": "M:\\PS\\Code Forces\\String Task\\String Task.cpp",
+              "RelativeToolTip": "String Task.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-30T19:15:36.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

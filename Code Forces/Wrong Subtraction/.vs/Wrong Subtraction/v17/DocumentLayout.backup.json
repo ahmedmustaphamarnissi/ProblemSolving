@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\Code Forces\\Wrong Subtraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3704020A-B0B1-4434-9AA1-00BD4DFC82AC}|Wrong Subtraction.vcxproj|M:\\PS\\Code Forces\\Wrong Subtraction\\Wrong Subtraction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3704020A-B0B1-4434-9AA1-00BD4DFC82AC}|Wrong Subtraction.vcxproj|solutionrelative:Wrong Subtraction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Wrong Subtraction.cpp",
+              "DocumentMoniker": "M:\\PS\\Code Forces\\Wrong Subtraction\\Wrong Subtraction.cpp",
+              "RelativeDocumentMoniker": "Wrong Subtraction.cpp",
+              "ToolTip": "M:\\PS\\Code Forces\\Wrong Subtraction\\Wrong Subtraction.cpp*",
+              "RelativeToolTip": "Wrong Subtraction.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-30T19:41:07.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  Anton and Danik.cpp
+M:\PS\Code Forces\Anton and Danik\Anton and Danik.cpp(9,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Anton and Danik.vcxproj -> M:\PS\Code Forces\Anton and Danik\x64\Debug\Anton and Danik.exe

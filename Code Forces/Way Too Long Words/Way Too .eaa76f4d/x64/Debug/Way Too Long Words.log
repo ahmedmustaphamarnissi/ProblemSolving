@@ -1,0 +1,3 @@
+﻿  Way Too Long Words.cpp
+M:\PS\Code Forces\Way Too Long Words\Way Too Long Words.cpp(17,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Way Too Long Words.vcxproj -> M:\PS\Code Forces\Way Too Long Words\x64\Debug\Way Too Long Words.exe

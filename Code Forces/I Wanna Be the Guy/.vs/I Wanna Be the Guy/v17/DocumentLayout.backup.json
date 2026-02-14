@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\Code Forces\\I Wanna Be the Guy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA73216-6AA6-48A3-BF1F-9A8F0C4D20B9}|I Wanna Be the Guy.vcxproj|M:\\PS\\Code Forces\\I Wanna Be the Guy\\I Wanna Be the Guy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EA73216-6AA6-48A3-BF1F-9A8F0C4D20B9}|I Wanna Be the Guy.vcxproj|solutionrelative:I Wanna Be the Guy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "I Wanna Be the Guy.cpp",
+              "DocumentMoniker": "M:\\PS\\Code Forces\\I Wanna Be the Guy\\I Wanna Be the Guy.cpp",
+              "RelativeDocumentMoniker": "I Wanna Be the Guy.cpp",
+              "ToolTip": "M:\\PS\\Code Forces\\I Wanna Be the Guy\\I Wanna Be the Guy.cpp*",
+              "RelativeToolTip": "I Wanna Be the Guy.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-03T10:20:41.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

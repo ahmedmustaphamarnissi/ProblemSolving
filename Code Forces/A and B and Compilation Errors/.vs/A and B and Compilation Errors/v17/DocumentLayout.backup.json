@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\Code Forces\\A and B and Compilation Errors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51B17BD2-9DA9-47DF-AC4A-3D0DF64D562F}|A and B and Compilation Errors.vcxproj|M:\\PS\\Code Forces\\A and B and Compilation Errors\\A and B and Compilation Errors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51B17BD2-9DA9-47DF-AC4A-3D0DF64D562F}|A and B and Compilation Errors.vcxproj|solutionrelative:A and B and Compilation Errors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A and B and Compilation Errors.cpp",
+              "DocumentMoniker": "M:\\PS\\Code Forces\\A and B and Compilation Errors\\A and B and Compilation Errors.cpp",
+              "RelativeDocumentMoniker": "A and B and Compilation Errors.cpp",
+              "ToolTip": "M:\\PS\\Code Forces\\A and B and Compilation Errors\\A and B and Compilation Errors.cpp*",
+              "RelativeToolTip": "A and B and Compilation Errors.cpp*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-04T20:05:43.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

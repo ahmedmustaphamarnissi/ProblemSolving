@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\Code Forces\\George and Accommodation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8157D974-AB5E-4C56-B098-9BACA5E482BF}|George and Accommodation.vcxproj|M:\\PS\\Code Forces\\George and Accommodation\\George and Accommodation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8157D974-AB5E-4C56-B098-9BACA5E482BF}|George and Accommodation.vcxproj|solutionrelative:George and Accommodation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "George and Accommodation.cpp",
+              "DocumentMoniker": "M:\\PS\\Code Forces\\George and Accommodation\\George and Accommodation.cpp",
+              "RelativeDocumentMoniker": "George and Accommodation.cpp",
+              "ToolTip": "M:\\PS\\Code Forces\\George and Accommodation\\George and Accommodation.cpp",
+              "RelativeToolTip": "George and Accommodation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-01T10:29:54.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
