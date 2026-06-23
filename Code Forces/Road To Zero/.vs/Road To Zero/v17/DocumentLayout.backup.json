@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\Code Forces\\Road To Zero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0A0682-2588-4A4F-90DA-4DFB0982A708}|Road To Zero.vcxproj|M:\\PS\\Code Forces\\Road To Zero\\Road To Zero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF0A0682-2588-4A4F-90DA-4DFB0982A708}|Road To Zero.vcxproj|solutionrelative:Road To Zero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Road To Zero.cpp",
+              "DocumentMoniker": "M:\\PS\\Code Forces\\Road To Zero\\Road To Zero.cpp",
+              "RelativeDocumentMoniker": "Road To Zero.cpp",
+              "ToolTip": "M:\\PS\\Code Forces\\Road To Zero\\Road To Zero.cpp",
+              "RelativeToolTip": "Road To Zero.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-04T19:16:39.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

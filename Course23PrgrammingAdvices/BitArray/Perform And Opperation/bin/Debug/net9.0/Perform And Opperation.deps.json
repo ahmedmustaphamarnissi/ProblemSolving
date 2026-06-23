@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Perform And Opperation/1.0.0": {
+        "runtime": {
+          "Perform And Opperation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Perform And Opperation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

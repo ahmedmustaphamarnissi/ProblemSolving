@@ -1,0 +1,14 @@
+M:\C#\23\Dictionary\Store Books Informations\bin\Debug\net9.0\Store Books Informations.exe
+M:\C#\23\Dictionary\Store Books Informations\bin\Debug\net9.0\Store Books Informations.deps.json
+M:\C#\23\Dictionary\Store Books Informations\bin\Debug\net9.0\Store Books Informations.runtimeconfig.json
+M:\C#\23\Dictionary\Store Books Informations\bin\Debug\net9.0\Store Books Informations.dll
+M:\C#\23\Dictionary\Store Books Informations\bin\Debug\net9.0\Store Books Informations.pdb
+M:\C#\23\Dictionary\Store Books Informations\obj\Debug\net9.0\Store Books Informations.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Dictionary\Store Books Informations\obj\Debug\net9.0\Store Books Informations.AssemblyInfoInputs.cache
+M:\C#\23\Dictionary\Store Books Informations\obj\Debug\net9.0\Store Books Informations.AssemblyInfo.cs
+M:\C#\23\Dictionary\Store Books Informations\obj\Debug\net9.0\Store Books Informations.csproj.CoreCompileInputs.cache
+M:\C#\23\Dictionary\Store Books Informations\obj\Debug\net9.0\Store Books Informations.dll
+M:\C#\23\Dictionary\Store Books Informations\obj\Debug\net9.0\refint\Store Books Informations.dll
+M:\C#\23\Dictionary\Store Books Informations\obj\Debug\net9.0\Store Books Informations.pdb
+M:\C#\23\Dictionary\Store Books Informations\obj\Debug\net9.0\Store Books Informations.genruntimeconfig.cache
+M:\C#\23\Dictionary\Store Books Informations\obj\Debug\net9.0\ref\Store Books Informations.dll

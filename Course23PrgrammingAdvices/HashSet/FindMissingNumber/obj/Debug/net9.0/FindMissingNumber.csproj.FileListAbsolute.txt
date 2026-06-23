@@ -1,0 +1,14 @@
+M:\C#\23\HashSet\FindMissingNumber\bin\Debug\net9.0\FindMissingNumber.exe
+M:\C#\23\HashSet\FindMissingNumber\bin\Debug\net9.0\FindMissingNumber.deps.json
+M:\C#\23\HashSet\FindMissingNumber\bin\Debug\net9.0\FindMissingNumber.runtimeconfig.json
+M:\C#\23\HashSet\FindMissingNumber\bin\Debug\net9.0\FindMissingNumber.dll
+M:\C#\23\HashSet\FindMissingNumber\bin\Debug\net9.0\FindMissingNumber.pdb
+M:\C#\23\HashSet\FindMissingNumber\obj\Debug\net9.0\FindMissingNumber.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\HashSet\FindMissingNumber\obj\Debug\net9.0\FindMissingNumber.AssemblyInfoInputs.cache
+M:\C#\23\HashSet\FindMissingNumber\obj\Debug\net9.0\FindMissingNumber.AssemblyInfo.cs
+M:\C#\23\HashSet\FindMissingNumber\obj\Debug\net9.0\FindMissingNumber.csproj.CoreCompileInputs.cache
+M:\C#\23\HashSet\FindMissingNumber\obj\Debug\net9.0\FindMissingNumber.dll
+M:\C#\23\HashSet\FindMissingNumber\obj\Debug\net9.0\refint\FindMissingNumber.dll
+M:\C#\23\HashSet\FindMissingNumber\obj\Debug\net9.0\FindMissingNumber.pdb
+M:\C#\23\HashSet\FindMissingNumber\obj\Debug\net9.0\FindMissingNumber.genruntimeconfig.cache
+M:\C#\23\HashSet\FindMissingNumber\obj\Debug\net9.0\ref\FindMissingNumber.dll

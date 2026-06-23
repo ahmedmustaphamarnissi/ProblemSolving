@@ -1,0 +1,3 @@
+﻿  Theatre Square.cpp
+M:\PS\Code Forces\Theatre Square\Theatre Square.cpp(9,27): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  Theatre Square.vcxproj -> M:\PS\Code Forces\Theatre Square\x64\Debug\Theatre Square.exe

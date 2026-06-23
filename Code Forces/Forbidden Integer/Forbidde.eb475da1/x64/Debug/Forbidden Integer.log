@@ -1,0 +1,3 @@
+﻿  Forbidden Integer.cpp
+M:\PS\Code Forces\Forbidden Integer\Forbidden Integer.cpp(30,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Forbidden Integer.vcxproj -> M:\PS\Code Forces\Forbidden Integer\x64\Debug\Forbidden Integer.exe

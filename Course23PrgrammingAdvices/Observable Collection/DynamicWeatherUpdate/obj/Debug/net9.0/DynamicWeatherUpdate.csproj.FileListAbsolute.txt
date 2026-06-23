@@ -1,0 +1,14 @@
+M:\C#\23\Observable Collection\DynamicWeatherUpdate\bin\Debug\net9.0\DynamicWeatherUpdate.exe
+M:\C#\23\Observable Collection\DynamicWeatherUpdate\bin\Debug\net9.0\DynamicWeatherUpdate.deps.json
+M:\C#\23\Observable Collection\DynamicWeatherUpdate\bin\Debug\net9.0\DynamicWeatherUpdate.runtimeconfig.json
+M:\C#\23\Observable Collection\DynamicWeatherUpdate\bin\Debug\net9.0\DynamicWeatherUpdate.dll
+M:\C#\23\Observable Collection\DynamicWeatherUpdate\bin\Debug\net9.0\DynamicWeatherUpdate.pdb
+M:\C#\23\Observable Collection\DynamicWeatherUpdate\obj\Debug\net9.0\DynamicWeatherUpdate.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Observable Collection\DynamicWeatherUpdate\obj\Debug\net9.0\DynamicWeatherUpdate.AssemblyInfoInputs.cache
+M:\C#\23\Observable Collection\DynamicWeatherUpdate\obj\Debug\net9.0\DynamicWeatherUpdate.AssemblyInfo.cs
+M:\C#\23\Observable Collection\DynamicWeatherUpdate\obj\Debug\net9.0\DynamicWeatherUpdate.csproj.CoreCompileInputs.cache
+M:\C#\23\Observable Collection\DynamicWeatherUpdate\obj\Debug\net9.0\DynamicWeatherUpdate.dll
+M:\C#\23\Observable Collection\DynamicWeatherUpdate\obj\Debug\net9.0\refint\DynamicWeatherUpdate.dll
+M:\C#\23\Observable Collection\DynamicWeatherUpdate\obj\Debug\net9.0\DynamicWeatherUpdate.pdb
+M:\C#\23\Observable Collection\DynamicWeatherUpdate\obj\Debug\net9.0\DynamicWeatherUpdate.genruntimeconfig.cache
+M:\C#\23\Observable Collection\DynamicWeatherUpdate\obj\Debug\net9.0\ref\DynamicWeatherUpdate.dll

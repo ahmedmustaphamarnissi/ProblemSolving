@@ -1,0 +1,14 @@
+M:\C#\23\Queue\Generate Binary\bin\Debug\net8.0\Generate Binary.exe
+M:\C#\23\Queue\Generate Binary\bin\Debug\net8.0\Generate Binary.deps.json
+M:\C#\23\Queue\Generate Binary\bin\Debug\net8.0\Generate Binary.runtimeconfig.json
+M:\C#\23\Queue\Generate Binary\bin\Debug\net8.0\Generate Binary.dll
+M:\C#\23\Queue\Generate Binary\bin\Debug\net8.0\Generate Binary.pdb
+M:\C#\23\Queue\Generate Binary\obj\Debug\net8.0\Generate Binary.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Queue\Generate Binary\obj\Debug\net8.0\Generate Binary.AssemblyInfoInputs.cache
+M:\C#\23\Queue\Generate Binary\obj\Debug\net8.0\Generate Binary.AssemblyInfo.cs
+M:\C#\23\Queue\Generate Binary\obj\Debug\net8.0\Generate Binary.csproj.CoreCompileInputs.cache
+M:\C#\23\Queue\Generate Binary\obj\Debug\net8.0\Generate Binary.dll
+M:\C#\23\Queue\Generate Binary\obj\Debug\net8.0\refint\Generate Binary.dll
+M:\C#\23\Queue\Generate Binary\obj\Debug\net8.0\Generate Binary.pdb
+M:\C#\23\Queue\Generate Binary\obj\Debug\net8.0\Generate Binary.genruntimeconfig.cache
+M:\C#\23\Queue\Generate Binary\obj\Debug\net8.0\ref\Generate Binary.dll

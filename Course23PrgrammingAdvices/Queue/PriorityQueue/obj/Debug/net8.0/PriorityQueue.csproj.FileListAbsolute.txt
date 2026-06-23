@@ -1,0 +1,14 @@
+M:\C#\23\Queue\PriorityQueue\bin\Debug\net8.0\PriorityQueue.exe
+M:\C#\23\Queue\PriorityQueue\bin\Debug\net8.0\PriorityQueue.deps.json
+M:\C#\23\Queue\PriorityQueue\bin\Debug\net8.0\PriorityQueue.runtimeconfig.json
+M:\C#\23\Queue\PriorityQueue\bin\Debug\net8.0\PriorityQueue.dll
+M:\C#\23\Queue\PriorityQueue\bin\Debug\net8.0\PriorityQueue.pdb
+M:\C#\23\Queue\PriorityQueue\obj\Debug\net8.0\PriorityQueue.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Queue\PriorityQueue\obj\Debug\net8.0\PriorityQueue.AssemblyInfoInputs.cache
+M:\C#\23\Queue\PriorityQueue\obj\Debug\net8.0\PriorityQueue.AssemblyInfo.cs
+M:\C#\23\Queue\PriorityQueue\obj\Debug\net8.0\PriorityQueue.csproj.CoreCompileInputs.cache
+M:\C#\23\Queue\PriorityQueue\obj\Debug\net8.0\PriorityQueue.dll
+M:\C#\23\Queue\PriorityQueue\obj\Debug\net8.0\refint\PriorityQueue.dll
+M:\C#\23\Queue\PriorityQueue\obj\Debug\net8.0\PriorityQueue.pdb
+M:\C#\23\Queue\PriorityQueue\obj\Debug\net8.0\PriorityQueue.genruntimeconfig.cache
+M:\C#\23\Queue\PriorityQueue\obj\Debug\net8.0\ref\PriorityQueue.dll

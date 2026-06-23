@@ -1,0 +1,14 @@
+M:\C#\23\HashSet\FindNumbersDisappeared\bin\Debug\net9.0\FindNumbersDisappeared.exe
+M:\C#\23\HashSet\FindNumbersDisappeared\bin\Debug\net9.0\FindNumbersDisappeared.deps.json
+M:\C#\23\HashSet\FindNumbersDisappeared\bin\Debug\net9.0\FindNumbersDisappeared.runtimeconfig.json
+M:\C#\23\HashSet\FindNumbersDisappeared\bin\Debug\net9.0\FindNumbersDisappeared.dll
+M:\C#\23\HashSet\FindNumbersDisappeared\bin\Debug\net9.0\FindNumbersDisappeared.pdb
+M:\C#\23\HashSet\FindNumbersDisappeared\obj\Debug\net9.0\FindNumbersDisappeared.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\HashSet\FindNumbersDisappeared\obj\Debug\net9.0\FindNumbersDisappeared.AssemblyInfoInputs.cache
+M:\C#\23\HashSet\FindNumbersDisappeared\obj\Debug\net9.0\FindNumbersDisappeared.AssemblyInfo.cs
+M:\C#\23\HashSet\FindNumbersDisappeared\obj\Debug\net9.0\FindNumbersDisappeared.csproj.CoreCompileInputs.cache
+M:\C#\23\HashSet\FindNumbersDisappeared\obj\Debug\net9.0\FindNumbersDisappeared.dll
+M:\C#\23\HashSet\FindNumbersDisappeared\obj\Debug\net9.0\refint\FindNumbersDisappeared.dll
+M:\C#\23\HashSet\FindNumbersDisappeared\obj\Debug\net9.0\FindNumbersDisappeared.pdb
+M:\C#\23\HashSet\FindNumbersDisappeared\obj\Debug\net9.0\FindNumbersDisappeared.genruntimeconfig.cache
+M:\C#\23\HashSet\FindNumbersDisappeared\obj\Debug\net9.0\ref\FindNumbersDisappeared.dll

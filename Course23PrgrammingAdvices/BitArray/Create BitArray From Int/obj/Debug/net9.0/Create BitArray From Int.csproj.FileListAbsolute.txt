@@ -1,0 +1,14 @@
+M:\C#\23\BitArray\Create BitArray From Int\bin\Debug\net9.0\Create BitArray From Int.exe
+M:\C#\23\BitArray\Create BitArray From Int\bin\Debug\net9.0\Create BitArray From Int.deps.json
+M:\C#\23\BitArray\Create BitArray From Int\bin\Debug\net9.0\Create BitArray From Int.runtimeconfig.json
+M:\C#\23\BitArray\Create BitArray From Int\bin\Debug\net9.0\Create BitArray From Int.dll
+M:\C#\23\BitArray\Create BitArray From Int\bin\Debug\net9.0\Create BitArray From Int.pdb
+M:\C#\23\BitArray\Create BitArray From Int\obj\Debug\net9.0\Create BitArray From Int.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\BitArray\Create BitArray From Int\obj\Debug\net9.0\Create BitArray From Int.AssemblyInfoInputs.cache
+M:\C#\23\BitArray\Create BitArray From Int\obj\Debug\net9.0\Create BitArray From Int.AssemblyInfo.cs
+M:\C#\23\BitArray\Create BitArray From Int\obj\Debug\net9.0\Create BitArray From Int.csproj.CoreCompileInputs.cache
+M:\C#\23\BitArray\Create BitArray From Int\obj\Debug\net9.0\Create BitArray From Int.dll
+M:\C#\23\BitArray\Create BitArray From Int\obj\Debug\net9.0\refint\Create BitArray From Int.dll
+M:\C#\23\BitArray\Create BitArray From Int\obj\Debug\net9.0\Create BitArray From Int.pdb
+M:\C#\23\BitArray\Create BitArray From Int\obj\Debug\net9.0\Create BitArray From Int.genruntimeconfig.cache
+M:\C#\23\BitArray\Create BitArray From Int\obj\Debug\net9.0\ref\Create BitArray From Int.dll

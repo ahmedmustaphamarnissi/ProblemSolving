@@ -1,0 +1,14 @@
+M:\C#\23\Stack\Simple Backtraking\bin\Debug\net8.0\Simple Backtraking.exe
+M:\C#\23\Stack\Simple Backtraking\bin\Debug\net8.0\Simple Backtraking.deps.json
+M:\C#\23\Stack\Simple Backtraking\bin\Debug\net8.0\Simple Backtraking.runtimeconfig.json
+M:\C#\23\Stack\Simple Backtraking\bin\Debug\net8.0\Simple Backtraking.dll
+M:\C#\23\Stack\Simple Backtraking\bin\Debug\net8.0\Simple Backtraking.pdb
+M:\C#\23\Stack\Simple Backtraking\obj\Debug\net8.0\Simple Backtraking.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Stack\Simple Backtraking\obj\Debug\net8.0\Simple Backtraking.AssemblyInfoInputs.cache
+M:\C#\23\Stack\Simple Backtraking\obj\Debug\net8.0\Simple Backtraking.AssemblyInfo.cs
+M:\C#\23\Stack\Simple Backtraking\obj\Debug\net8.0\Simple Backtraking.csproj.CoreCompileInputs.cache
+M:\C#\23\Stack\Simple Backtraking\obj\Debug\net8.0\Simple Backtraking.dll
+M:\C#\23\Stack\Simple Backtraking\obj\Debug\net8.0\refint\Simple Backtraking.dll
+M:\C#\23\Stack\Simple Backtraking\obj\Debug\net8.0\Simple Backtraking.pdb
+M:\C#\23\Stack\Simple Backtraking\obj\Debug\net8.0\Simple Backtraking.genruntimeconfig.cache
+M:\C#\23\Stack\Simple Backtraking\obj\Debug\net8.0\ref\Simple Backtraking.dll

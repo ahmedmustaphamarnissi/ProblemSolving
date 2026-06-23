@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\Code Forces\\Insomnia cure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2B300-F04C-45BC-BE77-13C9ED944D88}|Insomnia cure.vcxproj|M:\\PS\\Code Forces\\Insomnia cure\\Insomnia cure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06C2B300-F04C-45BC-BE77-13C9ED944D88}|Insomnia cure.vcxproj|solutionrelative:Insomnia cure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Insomnia cure.cpp",
+              "DocumentMoniker": "M:\\PS\\Code Forces\\Insomnia cure\\Insomnia cure.cpp",
+              "RelativeDocumentMoniker": "Insomnia cure.cpp",
+              "ToolTip": "M:\\PS\\Code Forces\\Insomnia cure\\Insomnia cure.cpp",
+              "RelativeToolTip": "Insomnia cure.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-03T11:43:25.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

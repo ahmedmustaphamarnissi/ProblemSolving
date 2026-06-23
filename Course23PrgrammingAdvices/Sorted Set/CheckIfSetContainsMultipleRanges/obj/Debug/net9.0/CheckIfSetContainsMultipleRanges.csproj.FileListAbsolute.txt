@@ -1,0 +1,14 @@
+M:\C#\23\Sorted Set\CheckIfSetContainsMultipleRanges\bin\Debug\net9.0\CheckIfSetContainsMultipleRanges.exe
+M:\C#\23\Sorted Set\CheckIfSetContainsMultipleRanges\bin\Debug\net9.0\CheckIfSetContainsMultipleRanges.deps.json
+M:\C#\23\Sorted Set\CheckIfSetContainsMultipleRanges\bin\Debug\net9.0\CheckIfSetContainsMultipleRanges.runtimeconfig.json
+M:\C#\23\Sorted Set\CheckIfSetContainsMultipleRanges\bin\Debug\net9.0\CheckIfSetContainsMultipleRanges.dll
+M:\C#\23\Sorted Set\CheckIfSetContainsMultipleRanges\bin\Debug\net9.0\CheckIfSetContainsMultipleRanges.pdb
+M:\C#\23\Sorted Set\CheckIfSetContainsMultipleRanges\obj\Debug\net9.0\CheckIfSetContainsMultipleRanges.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Sorted Set\CheckIfSetContainsMultipleRanges\obj\Debug\net9.0\CheckIfSetContainsMultipleRanges.AssemblyInfoInputs.cache
+M:\C#\23\Sorted Set\CheckIfSetContainsMultipleRanges\obj\Debug\net9.0\CheckIfSetContainsMultipleRanges.AssemblyInfo.cs
+M:\C#\23\Sorted Set\CheckIfSetContainsMultipleRanges\obj\Debug\net9.0\CheckIfSetContainsMultipleRanges.csproj.CoreCompileInputs.cache
+M:\C#\23\Sorted Set\CheckIfSetContainsMultipleRanges\obj\Debug\net9.0\CheckIfSetContainsMultipleRanges.dll
+M:\C#\23\Sorted Set\CheckIfSetContainsMultipleRanges\obj\Debug\net9.0\refint\CheckIfSetContainsMultipleRanges.dll
+M:\C#\23\Sorted Set\CheckIfSetContainsMultipleRanges\obj\Debug\net9.0\CheckIfSetContainsMultipleRanges.pdb
+M:\C#\23\Sorted Set\CheckIfSetContainsMultipleRanges\obj\Debug\net9.0\CheckIfSetContainsMultipleRanges.genruntimeconfig.cache
+M:\C#\23\Sorted Set\CheckIfSetContainsMultipleRanges\obj\Debug\net9.0\ref\CheckIfSetContainsMultipleRanges.dll

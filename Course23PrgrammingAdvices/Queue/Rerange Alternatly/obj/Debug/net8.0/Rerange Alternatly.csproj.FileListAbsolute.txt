@@ -1,0 +1,14 @@
+M:\C#\23\Queue\Rerange Alternatly\bin\Debug\net8.0\Rerange Alternatly.exe
+M:\C#\23\Queue\Rerange Alternatly\bin\Debug\net8.0\Rerange Alternatly.deps.json
+M:\C#\23\Queue\Rerange Alternatly\bin\Debug\net8.0\Rerange Alternatly.runtimeconfig.json
+M:\C#\23\Queue\Rerange Alternatly\bin\Debug\net8.0\Rerange Alternatly.dll
+M:\C#\23\Queue\Rerange Alternatly\bin\Debug\net8.0\Rerange Alternatly.pdb
+M:\C#\23\Queue\Rerange Alternatly\obj\Debug\net8.0\Rerange Alternatly.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Queue\Rerange Alternatly\obj\Debug\net8.0\Rerange Alternatly.AssemblyInfoInputs.cache
+M:\C#\23\Queue\Rerange Alternatly\obj\Debug\net8.0\Rerange Alternatly.AssemblyInfo.cs
+M:\C#\23\Queue\Rerange Alternatly\obj\Debug\net8.0\Rerange Alternatly.csproj.CoreCompileInputs.cache
+M:\C#\23\Queue\Rerange Alternatly\obj\Debug\net8.0\Rerange Alternatly.dll
+M:\C#\23\Queue\Rerange Alternatly\obj\Debug\net8.0\refint\Rerange Alternatly.dll
+M:\C#\23\Queue\Rerange Alternatly\obj\Debug\net8.0\Rerange Alternatly.pdb
+M:\C#\23\Queue\Rerange Alternatly\obj\Debug\net8.0\Rerange Alternatly.genruntimeconfig.cache
+M:\C#\23\Queue\Rerange Alternatly\obj\Debug\net8.0\ref\Rerange Alternatly.dll

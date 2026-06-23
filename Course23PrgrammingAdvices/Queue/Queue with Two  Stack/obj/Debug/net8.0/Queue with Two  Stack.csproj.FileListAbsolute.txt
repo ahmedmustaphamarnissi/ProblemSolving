@@ -1,0 +1,14 @@
+M:\C#\23\Queue\Queue with Two  Stack\bin\Debug\net8.0\Queue with Two  Stack.exe
+M:\C#\23\Queue\Queue with Two  Stack\bin\Debug\net8.0\Queue with Two  Stack.deps.json
+M:\C#\23\Queue\Queue with Two  Stack\bin\Debug\net8.0\Queue with Two  Stack.runtimeconfig.json
+M:\C#\23\Queue\Queue with Two  Stack\bin\Debug\net8.0\Queue with Two  Stack.dll
+M:\C#\23\Queue\Queue with Two  Stack\bin\Debug\net8.0\Queue with Two  Stack.pdb
+M:\C#\23\Queue\Queue with Two  Stack\obj\Debug\net8.0\Queue with Two  Stack.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Queue\Queue with Two  Stack\obj\Debug\net8.0\Queue with Two  Stack.AssemblyInfoInputs.cache
+M:\C#\23\Queue\Queue with Two  Stack\obj\Debug\net8.0\Queue with Two  Stack.AssemblyInfo.cs
+M:\C#\23\Queue\Queue with Two  Stack\obj\Debug\net8.0\Queue with Two  Stack.csproj.CoreCompileInputs.cache
+M:\C#\23\Queue\Queue with Two  Stack\obj\Debug\net8.0\Queue with Two  Stack.dll
+M:\C#\23\Queue\Queue with Two  Stack\obj\Debug\net8.0\refint\Queue with Two  Stack.dll
+M:\C#\23\Queue\Queue with Two  Stack\obj\Debug\net8.0\Queue with Two  Stack.pdb
+M:\C#\23\Queue\Queue with Two  Stack\obj\Debug\net8.0\Queue with Two  Stack.genruntimeconfig.cache
+M:\C#\23\Queue\Queue with Two  Stack\obj\Debug\net8.0\ref\Queue with Two  Stack.dll

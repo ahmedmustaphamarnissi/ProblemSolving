@@ -1,0 +1,14 @@
+M:\C#\23\Dictionary\FindCommonCharacters\obj\Debug\net9.0\FindCommonCharacters.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Dictionary\FindCommonCharacters\obj\Debug\net9.0\FindCommonCharacters.AssemblyInfoInputs.cache
+M:\C#\23\Dictionary\FindCommonCharacters\obj\Debug\net9.0\FindCommonCharacters.AssemblyInfo.cs
+M:\C#\23\Dictionary\FindCommonCharacters\obj\Debug\net9.0\FindCommonCharacters.csproj.CoreCompileInputs.cache
+M:\C#\23\Dictionary\FindCommonCharacters\bin\Debug\net9.0\FindCommonCharacters.exe
+M:\C#\23\Dictionary\FindCommonCharacters\bin\Debug\net9.0\FindCommonCharacters.deps.json
+M:\C#\23\Dictionary\FindCommonCharacters\bin\Debug\net9.0\FindCommonCharacters.runtimeconfig.json
+M:\C#\23\Dictionary\FindCommonCharacters\bin\Debug\net9.0\FindCommonCharacters.dll
+M:\C#\23\Dictionary\FindCommonCharacters\bin\Debug\net9.0\FindCommonCharacters.pdb
+M:\C#\23\Dictionary\FindCommonCharacters\obj\Debug\net9.0\FindCommonCharacters.dll
+M:\C#\23\Dictionary\FindCommonCharacters\obj\Debug\net9.0\refint\FindCommonCharacters.dll
+M:\C#\23\Dictionary\FindCommonCharacters\obj\Debug\net9.0\FindCommonCharacters.pdb
+M:\C#\23\Dictionary\FindCommonCharacters\obj\Debug\net9.0\FindCommonCharacters.genruntimeconfig.cache
+M:\C#\23\Dictionary\FindCommonCharacters\obj\Debug\net9.0\ref\FindCommonCharacters.dll

@@ -1,0 +1,14 @@
+M:\C#\23\Dictionary\Character Frequency\bin\Debug\net9.0\Character Frequency.exe
+M:\C#\23\Dictionary\Character Frequency\bin\Debug\net9.0\Character Frequency.deps.json
+M:\C#\23\Dictionary\Character Frequency\bin\Debug\net9.0\Character Frequency.runtimeconfig.json
+M:\C#\23\Dictionary\Character Frequency\bin\Debug\net9.0\Character Frequency.dll
+M:\C#\23\Dictionary\Character Frequency\bin\Debug\net9.0\Character Frequency.pdb
+M:\C#\23\Dictionary\Character Frequency\obj\Debug\net9.0\Character Frequency.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Dictionary\Character Frequency\obj\Debug\net9.0\Character Frequency.AssemblyInfoInputs.cache
+M:\C#\23\Dictionary\Character Frequency\obj\Debug\net9.0\Character Frequency.AssemblyInfo.cs
+M:\C#\23\Dictionary\Character Frequency\obj\Debug\net9.0\Character Frequency.csproj.CoreCompileInputs.cache
+M:\C#\23\Dictionary\Character Frequency\obj\Debug\net9.0\Character Frequency.dll
+M:\C#\23\Dictionary\Character Frequency\obj\Debug\net9.0\refint\Character Frequency.dll
+M:\C#\23\Dictionary\Character Frequency\obj\Debug\net9.0\Character Frequency.pdb
+M:\C#\23\Dictionary\Character Frequency\obj\Debug\net9.0\Character Frequency.genruntimeconfig.cache
+M:\C#\23\Dictionary\Character Frequency\obj\Debug\net9.0\ref\Character Frequency.dll

@@ -1,0 +1,14 @@
+M:\C#\23\Tuples\Simplified Address Representation\bin\Debug\net9.0\Simplified Address Representation.exe
+M:\C#\23\Tuples\Simplified Address Representation\bin\Debug\net9.0\Simplified Address Representation.deps.json
+M:\C#\23\Tuples\Simplified Address Representation\bin\Debug\net9.0\Simplified Address Representation.runtimeconfig.json
+M:\C#\23\Tuples\Simplified Address Representation\bin\Debug\net9.0\Simplified Address Representation.dll
+M:\C#\23\Tuples\Simplified Address Representation\bin\Debug\net9.0\Simplified Address Representation.pdb
+M:\C#\23\Tuples\Simplified Address Representation\obj\Debug\net9.0\Simplified Address Representation.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Tuples\Simplified Address Representation\obj\Debug\net9.0\Simplified Address Representation.AssemblyInfoInputs.cache
+M:\C#\23\Tuples\Simplified Address Representation\obj\Debug\net9.0\Simplified Address Representation.AssemblyInfo.cs
+M:\C#\23\Tuples\Simplified Address Representation\obj\Debug\net9.0\Simplified Address Representation.csproj.CoreCompileInputs.cache
+M:\C#\23\Tuples\Simplified Address Representation\obj\Debug\net9.0\Simplified Address Representation.dll
+M:\C#\23\Tuples\Simplified Address Representation\obj\Debug\net9.0\refint\Simplified Address Representation.dll
+M:\C#\23\Tuples\Simplified Address Representation\obj\Debug\net9.0\Simplified Address Representation.pdb
+M:\C#\23\Tuples\Simplified Address Representation\obj\Debug\net9.0\Simplified Address Representation.genruntimeconfig.cache
+M:\C#\23\Tuples\Simplified Address Representation\obj\Debug\net9.0\ref\Simplified Address Representation.dll

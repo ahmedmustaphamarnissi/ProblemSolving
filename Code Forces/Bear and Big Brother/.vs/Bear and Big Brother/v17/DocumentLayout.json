@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\Code Forces\\Bear and Big Brother\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB039073-A560-4E3C-921E-B672C02D0092}|Bear and Big Brother.vcxproj|M:\\PS\\Code Forces\\Bear and Big Brother\\Bear and Big Brother.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB039073-A560-4E3C-921E-B672C02D0092}|Bear and Big Brother.vcxproj|solutionrelative:Bear and Big Brother.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bear and Big Brother.cpp",
+              "DocumentMoniker": "M:\\PS\\Code Forces\\Bear and Big Brother\\Bear and Big Brother.cpp",
+              "RelativeDocumentMoniker": "Bear and Big Brother.cpp",
+              "ToolTip": "M:\\PS\\Code Forces\\Bear and Big Brother\\Bear and Big Brother.cpp",
+              "RelativeToolTip": "Bear and Big Brother.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-30T10:08:49.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿  Vanya and Lanterns.cpp
+M:\PS\Code Forces\Vanya and Lanterns\Vanya and Lanterns.cpp(14,16): warning C4244: 'initializing': conversion from '_Ty' to 'long double', possible loss of data
+M:\PS\Code Forces\Vanya and Lanterns\Vanya and Lanterns.cpp(14,16): warning C4244:         with
+M:\PS\Code Forces\Vanya and Lanterns\Vanya and Lanterns.cpp(14,16): warning C4244:         [
+M:\PS\Code Forces\Vanya and Lanterns\Vanya and Lanterns.cpp(14,16): warning C4244:             _Ty=__int64
+M:\PS\Code Forces\Vanya and Lanterns\Vanya and Lanterns.cpp(14,16): warning C4244:         ]
+  Vanya and Lanterns.vcxproj -> M:\PS\Code Forces\Vanya and Lanterns\x64\Debug\Vanya and Lanterns.exe

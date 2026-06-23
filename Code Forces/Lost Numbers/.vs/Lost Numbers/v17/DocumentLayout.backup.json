@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\Code Forces\\Lost Numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59EFC892-7CBF-41CD-A319-7464D61DA794}|Lost Numbers.vcxproj|M:\\PS\\Code Forces\\Lost Numbers\\Lost Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59EFC892-7CBF-41CD-A319-7464D61DA794}|Lost Numbers.vcxproj|solutionrelative:Lost Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lost Numbers.cpp",
+              "DocumentMoniker": "M:\\PS\\Code Forces\\Lost Numbers\\Lost Numbers.cpp",
+              "RelativeDocumentMoniker": "Lost Numbers.cpp",
+              "ToolTip": "M:\\PS\\Code Forces\\Lost Numbers\\Lost Numbers.cpp",
+              "RelativeToolTip": "Lost Numbers.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-15T16:11:32.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

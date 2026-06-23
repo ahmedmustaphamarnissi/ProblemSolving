@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\Code Forces\\Ambitious Kid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB6D530-091F-44AC-ACC1-4E6E870D935D}|Ambitious Kid.vcxproj|M:\\PS\\Code Forces\\Ambitious Kid\\Ambitious Kid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BB6D530-091F-44AC-ACC1-4E6E870D935D}|Ambitious Kid.vcxproj|solutionrelative:Ambitious Kid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ambitious Kid.cpp",
+              "DocumentMoniker": "M:\\PS\\Code Forces\\Ambitious Kid\\Ambitious Kid.cpp",
+              "RelativeDocumentMoniker": "Ambitious Kid.cpp",
+              "ToolTip": "M:\\PS\\Code Forces\\Ambitious Kid\\Ambitious Kid.cpp",
+              "RelativeToolTip": "Ambitious Kid.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-10T21:31:35.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\leet code\\Search Insert Position\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6484B6-6E2E-4389-AD8D-9A9F9DBA2B55}|Search Insert Position.vcxproj|M:\\PS\\leet code\\Search Insert Position\\Search Insert Position.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F6484B6-6E2E-4389-AD8D-9A9F9DBA2B55}|Search Insert Position.vcxproj|solutionrelative:Search Insert Position.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Search Insert Position.cpp",
+              "DocumentMoniker": "M:\\PS\\leet code\\Search Insert Position\\Search Insert Position.cpp",
+              "RelativeDocumentMoniker": "Search Insert Position.cpp",
+              "ToolTip": "M:\\PS\\leet code\\Search Insert Position\\Search Insert Position.cpp",
+              "RelativeToolTip": "Search Insert Position.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-22T16:10:19.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

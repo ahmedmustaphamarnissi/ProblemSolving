@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\Code Forces\\Maximum Median\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85E97484-FA5E-4216-AA9C-DCBCB2AF1E7E}|Maximum Median.vcxproj|M:\\PS\\Code Forces\\Maximum Median\\Maximum Median.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85E97484-FA5E-4216-AA9C-DCBCB2AF1E7E}|Maximum Median.vcxproj|solutionrelative:Maximum Median.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Maximum Median.cpp",
+              "DocumentMoniker": "M:\\PS\\Code Forces\\Maximum Median\\Maximum Median.cpp",
+              "RelativeDocumentMoniker": "Maximum Median.cpp",
+              "ToolTip": "M:\\PS\\Code Forces\\Maximum Median\\Maximum Median.cpp",
+              "RelativeToolTip": "Maximum Median.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-20T19:51:11.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

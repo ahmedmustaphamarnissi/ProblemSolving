@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\Code Forces\\Two-gram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1E8DFA-7318-43FD-9927-0219BF723E2B}|Two-gram.vcxproj|M:\\PS\\Code Forces\\Two-gram\\Two-gram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3E1E8DFA-7318-43FD-9927-0219BF723E2B}|Two-gram.vcxproj|solutionrelative:Two-gram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Two-gram.cpp",
+              "DocumentMoniker": "M:\\PS\\Code Forces\\Two-gram\\Two-gram.cpp",
+              "RelativeDocumentMoniker": "Two-gram.cpp",
+              "ToolTip": "M:\\PS\\Code Forces\\Two-gram\\Two-gram.cpp",
+              "RelativeToolTip": "Two-gram.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-04T20:49:24.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

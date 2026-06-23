@@ -1,0 +1,14 @@
+M:\C#\23\Tuples\Track Emplyees\bin\Debug\net9.0\Track Emplyees.exe
+M:\C#\23\Tuples\Track Emplyees\bin\Debug\net9.0\Track Emplyees.deps.json
+M:\C#\23\Tuples\Track Emplyees\bin\Debug\net9.0\Track Emplyees.runtimeconfig.json
+M:\C#\23\Tuples\Track Emplyees\bin\Debug\net9.0\Track Emplyees.dll
+M:\C#\23\Tuples\Track Emplyees\bin\Debug\net9.0\Track Emplyees.pdb
+M:\C#\23\Tuples\Track Emplyees\obj\Debug\net9.0\Track Emplyees.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Tuples\Track Emplyees\obj\Debug\net9.0\Track Emplyees.AssemblyInfoInputs.cache
+M:\C#\23\Tuples\Track Emplyees\obj\Debug\net9.0\Track Emplyees.AssemblyInfo.cs
+M:\C#\23\Tuples\Track Emplyees\obj\Debug\net9.0\Track Emplyees.csproj.CoreCompileInputs.cache
+M:\C#\23\Tuples\Track Emplyees\obj\Debug\net9.0\Track Emplyees.dll
+M:\C#\23\Tuples\Track Emplyees\obj\Debug\net9.0\refint\Track Emplyees.dll
+M:\C#\23\Tuples\Track Emplyees\obj\Debug\net9.0\Track Emplyees.pdb
+M:\C#\23\Tuples\Track Emplyees\obj\Debug\net9.0\Track Emplyees.genruntimeconfig.cache
+M:\C#\23\Tuples\Track Emplyees\obj\Debug\net9.0\ref\Track Emplyees.dll

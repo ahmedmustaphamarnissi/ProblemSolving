@@ -1,0 +1,14 @@
+M:\C#\23\Queue\Rearrange Even&Odd\bin\Debug\net8.0\Rearrange Even&Odd.exe
+M:\C#\23\Queue\Rearrange Even&Odd\bin\Debug\net8.0\Rearrange Even&Odd.deps.json
+M:\C#\23\Queue\Rearrange Even&Odd\bin\Debug\net8.0\Rearrange Even&Odd.runtimeconfig.json
+M:\C#\23\Queue\Rearrange Even&Odd\bin\Debug\net8.0\Rearrange Even&Odd.dll
+M:\C#\23\Queue\Rearrange Even&Odd\bin\Debug\net8.0\Rearrange Even&Odd.pdb
+M:\C#\23\Queue\Rearrange Even&Odd\obj\Debug\net8.0\Rearrange Even&Odd.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Queue\Rearrange Even&Odd\obj\Debug\net8.0\Rearrange Even&Odd.AssemblyInfoInputs.cache
+M:\C#\23\Queue\Rearrange Even&Odd\obj\Debug\net8.0\Rearrange Even&Odd.AssemblyInfo.cs
+M:\C#\23\Queue\Rearrange Even&Odd\obj\Debug\net8.0\Rearrange Even&Odd.csproj.CoreCompileInputs.cache
+M:\C#\23\Queue\Rearrange Even&Odd\obj\Debug\net8.0\Rearrange Even&Odd.dll
+M:\C#\23\Queue\Rearrange Even&Odd\obj\Debug\net8.0\refint\Rearrange Even&Odd.dll
+M:\C#\23\Queue\Rearrange Even&Odd\obj\Debug\net8.0\Rearrange Even&Odd.pdb
+M:\C#\23\Queue\Rearrange Even&Odd\obj\Debug\net8.0\Rearrange Even&Odd.genruntimeconfig.cache
+M:\C#\23\Queue\Rearrange Even&Odd\obj\Debug\net8.0\ref\Rearrange Even&Odd.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\Code Forces\\How Much Does Daytona Cost\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA5441A-4AF3-42F4-ADB4-0BC66E08D124}|How Much Does Daytona Cost.vcxproj|M:\\PS\\Code Forces\\How Much Does Daytona Cost\\How Much Does Daytona Cost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCA5441A-4AF3-42F4-ADB4-0BC66E08D124}|How Much Does Daytona Cost.vcxproj|solutionrelative:How Much Does Daytona Cost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "How Much Does Daytona Cost.cpp",
+              "DocumentMoniker": "M:\\PS\\Code Forces\\How Much Does Daytona Cost\\How Much Does Daytona Cost.cpp",
+              "RelativeDocumentMoniker": "How Much Does Daytona Cost.cpp",
+              "ToolTip": "M:\\PS\\Code Forces\\How Much Does Daytona Cost\\How Much Does Daytona Cost.cpp*",
+              "RelativeToolTip": "How Much Does Daytona Cost.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-09T21:16:34.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\leet code\\Find The Pivot Integer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD326C2A-85BD-4D5B-A489-ED5C0BF1AEF4}|Find The Pivot Integer.vcxproj|M:\\PS\\leet code\\Find The Pivot Integer\\Find The Pivot Integer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD326C2A-85BD-4D5B-A489-ED5C0BF1AEF4}|Find The Pivot Integer.vcxproj|solutionrelative:Find The Pivot Integer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Find The Pivot Integer.cpp",
+              "DocumentMoniker": "M:\\PS\\leet code\\Find The Pivot Integer\\Find The Pivot Integer.cpp",
+              "RelativeDocumentMoniker": "Find The Pivot Integer.cpp",
+              "ToolTip": "M:\\PS\\leet code\\Find The Pivot Integer\\Find The Pivot Integer.cpp",
+              "RelativeToolTip": "Find The Pivot Integer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-22T16:13:33.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

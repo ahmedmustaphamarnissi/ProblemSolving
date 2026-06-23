@@ -1,0 +1,14 @@
+M:\C#\23\Trees\Represent a Social Network\obj\Debug\net9.0\Represent a Social Network.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Trees\Represent a Social Network\obj\Debug\net9.0\Represent a Social Network.AssemblyInfoInputs.cache
+M:\C#\23\Trees\Represent a Social Network\obj\Debug\net9.0\Represent a Social Network.AssemblyInfo.cs
+M:\C#\23\Trees\Represent a Social Network\obj\Debug\net9.0\Represent a Social Network.csproj.CoreCompileInputs.cache
+M:\C#\23\Trees\Represent a Social Network\bin\Debug\net9.0\Represent a Social Network.exe
+M:\C#\23\Trees\Represent a Social Network\bin\Debug\net9.0\Represent a Social Network.deps.json
+M:\C#\23\Trees\Represent a Social Network\bin\Debug\net9.0\Represent a Social Network.runtimeconfig.json
+M:\C#\23\Trees\Represent a Social Network\bin\Debug\net9.0\Represent a Social Network.dll
+M:\C#\23\Trees\Represent a Social Network\bin\Debug\net9.0\Represent a Social Network.pdb
+M:\C#\23\Trees\Represent a Social Network\obj\Debug\net9.0\Represent a Social Network.dll
+M:\C#\23\Trees\Represent a Social Network\obj\Debug\net9.0\refint\Represent a Social Network.dll
+M:\C#\23\Trees\Represent a Social Network\obj\Debug\net9.0\Represent a Social Network.pdb
+M:\C#\23\Trees\Represent a Social Network\obj\Debug\net9.0\Represent a Social Network.genruntimeconfig.cache
+M:\C#\23\Trees\Represent a Social Network\obj\Debug\net9.0\ref\Represent a Social Network.dll

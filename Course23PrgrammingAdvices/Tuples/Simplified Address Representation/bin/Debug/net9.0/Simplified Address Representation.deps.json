@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Simplified Address Representation/1.0.0": {
+        "runtime": {
+          "Simplified Address Representation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simplified Address Representation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

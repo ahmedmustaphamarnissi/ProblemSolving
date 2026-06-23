@@ -1,0 +1,14 @@
+M:\C#\23\Observable Collection\UpdateStockPrice\bin\Debug\net9.0\UpdateStockPrice.exe
+M:\C#\23\Observable Collection\UpdateStockPrice\bin\Debug\net9.0\UpdateStockPrice.deps.json
+M:\C#\23\Observable Collection\UpdateStockPrice\bin\Debug\net9.0\UpdateStockPrice.runtimeconfig.json
+M:\C#\23\Observable Collection\UpdateStockPrice\bin\Debug\net9.0\UpdateStockPrice.dll
+M:\C#\23\Observable Collection\UpdateStockPrice\bin\Debug\net9.0\UpdateStockPrice.pdb
+M:\C#\23\Observable Collection\UpdateStockPrice\obj\Debug\net9.0\UpdateStockPrice.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Observable Collection\UpdateStockPrice\obj\Debug\net9.0\UpdateStockPrice.AssemblyInfoInputs.cache
+M:\C#\23\Observable Collection\UpdateStockPrice\obj\Debug\net9.0\UpdateStockPrice.AssemblyInfo.cs
+M:\C#\23\Observable Collection\UpdateStockPrice\obj\Debug\net9.0\UpdateStockPrice.csproj.CoreCompileInputs.cache
+M:\C#\23\Observable Collection\UpdateStockPrice\obj\Debug\net9.0\UpdateStockPrice.dll
+M:\C#\23\Observable Collection\UpdateStockPrice\obj\Debug\net9.0\refint\UpdateStockPrice.dll
+M:\C#\23\Observable Collection\UpdateStockPrice\obj\Debug\net9.0\UpdateStockPrice.pdb
+M:\C#\23\Observable Collection\UpdateStockPrice\obj\Debug\net9.0\UpdateStockPrice.genruntimeconfig.cache
+M:\C#\23\Observable Collection\UpdateStockPrice\obj\Debug\net9.0\ref\UpdateStockPrice.dll

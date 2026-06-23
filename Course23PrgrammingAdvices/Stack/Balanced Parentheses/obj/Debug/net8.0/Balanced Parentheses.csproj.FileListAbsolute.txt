@@ -1,0 +1,14 @@
+M:\C#\23\Stack\Balanced Parentheses\bin\Debug\net8.0\Balanced Parentheses.exe
+M:\C#\23\Stack\Balanced Parentheses\bin\Debug\net8.0\Balanced Parentheses.deps.json
+M:\C#\23\Stack\Balanced Parentheses\bin\Debug\net8.0\Balanced Parentheses.runtimeconfig.json
+M:\C#\23\Stack\Balanced Parentheses\bin\Debug\net8.0\Balanced Parentheses.dll
+M:\C#\23\Stack\Balanced Parentheses\bin\Debug\net8.0\Balanced Parentheses.pdb
+M:\C#\23\Stack\Balanced Parentheses\obj\Debug\net8.0\Balanced Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Stack\Balanced Parentheses\obj\Debug\net8.0\Balanced Parentheses.AssemblyInfoInputs.cache
+M:\C#\23\Stack\Balanced Parentheses\obj\Debug\net8.0\Balanced Parentheses.AssemblyInfo.cs
+M:\C#\23\Stack\Balanced Parentheses\obj\Debug\net8.0\Balanced Parentheses.csproj.CoreCompileInputs.cache
+M:\C#\23\Stack\Balanced Parentheses\obj\Debug\net8.0\Balanced Parentheses.dll
+M:\C#\23\Stack\Balanced Parentheses\obj\Debug\net8.0\refint\Balanced Parentheses.dll
+M:\C#\23\Stack\Balanced Parentheses\obj\Debug\net8.0\Balanced Parentheses.pdb
+M:\C#\23\Stack\Balanced Parentheses\obj\Debug\net8.0\Balanced Parentheses.genruntimeconfig.cache
+M:\C#\23\Stack\Balanced Parentheses\obj\Debug\net8.0\ref\Balanced Parentheses.dll

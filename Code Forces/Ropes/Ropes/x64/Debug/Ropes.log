@@ -1,0 +1,3 @@
+﻿  Ropes.cpp
+M:\PS\Code Forces\Ropes\Ropes.cpp(18,49): warning C4244: '+=': conversion from 'long double' to '__int64', possible loss of data
+  Ropes.vcxproj -> M:\PS\Code Forces\Ropes\x64\Debug\Ropes.exe

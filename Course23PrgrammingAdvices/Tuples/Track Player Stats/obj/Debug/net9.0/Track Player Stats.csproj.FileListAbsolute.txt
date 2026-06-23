@@ -1,0 +1,14 @@
+M:\C#\23\Tuples\Track Player Stats\bin\Debug\net9.0\Track Player Stats.exe
+M:\C#\23\Tuples\Track Player Stats\bin\Debug\net9.0\Track Player Stats.deps.json
+M:\C#\23\Tuples\Track Player Stats\bin\Debug\net9.0\Track Player Stats.runtimeconfig.json
+M:\C#\23\Tuples\Track Player Stats\bin\Debug\net9.0\Track Player Stats.dll
+M:\C#\23\Tuples\Track Player Stats\bin\Debug\net9.0\Track Player Stats.pdb
+M:\C#\23\Tuples\Track Player Stats\obj\Debug\net9.0\Track Player Stats.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Tuples\Track Player Stats\obj\Debug\net9.0\Track Player Stats.AssemblyInfoInputs.cache
+M:\C#\23\Tuples\Track Player Stats\obj\Debug\net9.0\Track Player Stats.AssemblyInfo.cs
+M:\C#\23\Tuples\Track Player Stats\obj\Debug\net9.0\Track Player Stats.csproj.CoreCompileInputs.cache
+M:\C#\23\Tuples\Track Player Stats\obj\Debug\net9.0\Track Player Stats.dll
+M:\C#\23\Tuples\Track Player Stats\obj\Debug\net9.0\refint\Track Player Stats.dll
+M:\C#\23\Tuples\Track Player Stats\obj\Debug\net9.0\Track Player Stats.pdb
+M:\C#\23\Tuples\Track Player Stats\obj\Debug\net9.0\Track Player Stats.genruntimeconfig.cache
+M:\C#\23\Tuples\Track Player Stats\obj\Debug\net9.0\ref\Track Player Stats.dll

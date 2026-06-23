@@ -1,0 +1,14 @@
+M:\C#\23\BitArray\Light Control System\bin\Debug\net9.0\Light Control System.exe
+M:\C#\23\BitArray\Light Control System\bin\Debug\net9.0\Light Control System.deps.json
+M:\C#\23\BitArray\Light Control System\bin\Debug\net9.0\Light Control System.runtimeconfig.json
+M:\C#\23\BitArray\Light Control System\bin\Debug\net9.0\Light Control System.dll
+M:\C#\23\BitArray\Light Control System\bin\Debug\net9.0\Light Control System.pdb
+M:\C#\23\BitArray\Light Control System\obj\Debug\net9.0\Light Control System.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\BitArray\Light Control System\obj\Debug\net9.0\Light Control System.AssemblyInfoInputs.cache
+M:\C#\23\BitArray\Light Control System\obj\Debug\net9.0\Light Control System.AssemblyInfo.cs
+M:\C#\23\BitArray\Light Control System\obj\Debug\net9.0\Light Control System.csproj.CoreCompileInputs.cache
+M:\C#\23\BitArray\Light Control System\obj\Debug\net9.0\Light Control System.dll
+M:\C#\23\BitArray\Light Control System\obj\Debug\net9.0\refint\Light Control System.dll
+M:\C#\23\BitArray\Light Control System\obj\Debug\net9.0\Light Control System.pdb
+M:\C#\23\BitArray\Light Control System\obj\Debug\net9.0\Light Control System.genruntimeconfig.cache
+M:\C#\23\BitArray\Light Control System\obj\Debug\net9.0\ref\Light Control System.dll

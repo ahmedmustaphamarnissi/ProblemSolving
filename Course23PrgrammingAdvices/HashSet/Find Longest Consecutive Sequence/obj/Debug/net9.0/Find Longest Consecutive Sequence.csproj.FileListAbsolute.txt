@@ -1,0 +1,14 @@
+M:\C#\23\HashSet\Find Longest Consecutive Sequence\bin\Debug\net9.0\Find Longest Consecutive Sequence.exe
+M:\C#\23\HashSet\Find Longest Consecutive Sequence\bin\Debug\net9.0\Find Longest Consecutive Sequence.deps.json
+M:\C#\23\HashSet\Find Longest Consecutive Sequence\bin\Debug\net9.0\Find Longest Consecutive Sequence.runtimeconfig.json
+M:\C#\23\HashSet\Find Longest Consecutive Sequence\bin\Debug\net9.0\Find Longest Consecutive Sequence.dll
+M:\C#\23\HashSet\Find Longest Consecutive Sequence\bin\Debug\net9.0\Find Longest Consecutive Sequence.pdb
+M:\C#\23\HashSet\Find Longest Consecutive Sequence\obj\Debug\net9.0\Find Longest Consecutive Sequence.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\HashSet\Find Longest Consecutive Sequence\obj\Debug\net9.0\Find Longest Consecutive Sequence.AssemblyInfoInputs.cache
+M:\C#\23\HashSet\Find Longest Consecutive Sequence\obj\Debug\net9.0\Find Longest Consecutive Sequence.AssemblyInfo.cs
+M:\C#\23\HashSet\Find Longest Consecutive Sequence\obj\Debug\net9.0\Find Longest Consecutive Sequence.csproj.CoreCompileInputs.cache
+M:\C#\23\HashSet\Find Longest Consecutive Sequence\obj\Debug\net9.0\Find Longest Consecutive Sequence.dll
+M:\C#\23\HashSet\Find Longest Consecutive Sequence\obj\Debug\net9.0\refint\Find Longest Consecutive Sequence.dll
+M:\C#\23\HashSet\Find Longest Consecutive Sequence\obj\Debug\net9.0\Find Longest Consecutive Sequence.pdb
+M:\C#\23\HashSet\Find Longest Consecutive Sequence\obj\Debug\net9.0\Find Longest Consecutive Sequence.genruntimeconfig.cache
+M:\C#\23\HashSet\Find Longest Consecutive Sequence\obj\Debug\net9.0\ref\Find Longest Consecutive Sequence.dll

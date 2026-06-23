@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\Code Forces\\Anton and Polyhedrons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB527C7-544B-4C86-B5DF-7DD5B768524D}|Anton and Polyhedrons.vcxproj|M:\\PS\\Code Forces\\Anton and Polyhedrons\\Anton and Polyhedrons.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AAB527C7-544B-4C86-B5DF-7DD5B768524D}|Anton and Polyhedrons.vcxproj|solutionrelative:Anton and Polyhedrons.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Anton and Polyhedrons.cpp",
+              "DocumentMoniker": "M:\\PS\\Code Forces\\Anton and Polyhedrons\\Anton and Polyhedrons.cpp",
+              "RelativeDocumentMoniker": "Anton and Polyhedrons.cpp",
+              "ToolTip": "M:\\PS\\Code Forces\\Anton and Polyhedrons\\Anton and Polyhedrons.cpp",
+              "RelativeToolTip": "Anton and Polyhedrons.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-03T11:55:02.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

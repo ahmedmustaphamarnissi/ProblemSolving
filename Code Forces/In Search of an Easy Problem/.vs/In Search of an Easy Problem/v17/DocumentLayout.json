@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\Code Forces\\In Search of an Easy Problem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{601075C0-5D1E-4A55-980B-AFF20CB3392B}|In Search of an Easy Problem.vcxproj|M:\\PS\\Code Forces\\In Search of an Easy Problem\\In Search of an Easy Problem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{601075C0-5D1E-4A55-980B-AFF20CB3392B}|In Search of an Easy Problem.vcxproj|solutionrelative:In Search of an Easy Problem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "In Search of an Easy Problem.cpp",
+              "DocumentMoniker": "M:\\PS\\Code Forces\\In Search of an Easy Problem\\In Search of an Easy Problem.cpp",
+              "RelativeDocumentMoniker": "In Search of an Easy Problem.cpp",
+              "ToolTip": "M:\\PS\\Code Forces\\In Search of an Easy Problem\\In Search of an Easy Problem.cpp",
+              "RelativeToolTip": "In Search of an Easy Problem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-31T16:09:01.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

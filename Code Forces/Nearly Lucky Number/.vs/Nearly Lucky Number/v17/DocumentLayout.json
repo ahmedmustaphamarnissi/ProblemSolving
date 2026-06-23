@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\Code Forces\\Nearly Lucky Number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10804249-645B-4F97-813E-D058DD6DA287}|Nearly Lucky Number.vcxproj|M:\\PS\\Code Forces\\Nearly Lucky Number\\Nearly Lucky Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10804249-645B-4F97-813E-D058DD6DA287}|Nearly Lucky Number.vcxproj|solutionrelative:Nearly Lucky Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Nearly Lucky Number.cpp",
+              "DocumentMoniker": "M:\\PS\\Code Forces\\Nearly Lucky Number\\Nearly Lucky Number.cpp",
+              "RelativeDocumentMoniker": "Nearly Lucky Number.cpp",
+              "ToolTip": "M:\\PS\\Code Forces\\Nearly Lucky Number\\Nearly Lucky Number.cpp",
+              "RelativeToolTip": "Nearly Lucky Number.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-30T20:30:27.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

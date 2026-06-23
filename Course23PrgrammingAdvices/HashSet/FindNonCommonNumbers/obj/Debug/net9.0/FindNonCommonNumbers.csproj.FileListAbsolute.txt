@@ -1,0 +1,14 @@
+M:\C#\23\HashSet\FindNonCommonNumbers\bin\Debug\net9.0\FindNonCommonNumbers.exe
+M:\C#\23\HashSet\FindNonCommonNumbers\bin\Debug\net9.0\FindNonCommonNumbers.deps.json
+M:\C#\23\HashSet\FindNonCommonNumbers\bin\Debug\net9.0\FindNonCommonNumbers.runtimeconfig.json
+M:\C#\23\HashSet\FindNonCommonNumbers\bin\Debug\net9.0\FindNonCommonNumbers.dll
+M:\C#\23\HashSet\FindNonCommonNumbers\bin\Debug\net9.0\FindNonCommonNumbers.pdb
+M:\C#\23\HashSet\FindNonCommonNumbers\obj\Debug\net9.0\FindNonCommonNumbers.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\HashSet\FindNonCommonNumbers\obj\Debug\net9.0\FindNonCommonNumbers.AssemblyInfoInputs.cache
+M:\C#\23\HashSet\FindNonCommonNumbers\obj\Debug\net9.0\FindNonCommonNumbers.AssemblyInfo.cs
+M:\C#\23\HashSet\FindNonCommonNumbers\obj\Debug\net9.0\FindNonCommonNumbers.csproj.CoreCompileInputs.cache
+M:\C#\23\HashSet\FindNonCommonNumbers\obj\Debug\net9.0\FindNonCommonNumbers.dll
+M:\C#\23\HashSet\FindNonCommonNumbers\obj\Debug\net9.0\refint\FindNonCommonNumbers.dll
+M:\C#\23\HashSet\FindNonCommonNumbers\obj\Debug\net9.0\FindNonCommonNumbers.pdb
+M:\C#\23\HashSet\FindNonCommonNumbers\obj\Debug\net9.0\FindNonCommonNumbers.genruntimeconfig.cache
+M:\C#\23\HashSet\FindNonCommonNumbers\obj\Debug\net9.0\ref\FindNonCommonNumbers.dll

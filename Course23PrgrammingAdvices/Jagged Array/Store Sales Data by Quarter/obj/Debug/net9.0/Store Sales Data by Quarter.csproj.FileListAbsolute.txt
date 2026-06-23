@@ -1,0 +1,14 @@
+M:\C#\23\Jagged Array\Store Sales Data by Quarter\bin\Debug\net9.0\Store Sales Data by Quarter.exe
+M:\C#\23\Jagged Array\Store Sales Data by Quarter\bin\Debug\net9.0\Store Sales Data by Quarter.deps.json
+M:\C#\23\Jagged Array\Store Sales Data by Quarter\bin\Debug\net9.0\Store Sales Data by Quarter.runtimeconfig.json
+M:\C#\23\Jagged Array\Store Sales Data by Quarter\bin\Debug\net9.0\Store Sales Data by Quarter.dll
+M:\C#\23\Jagged Array\Store Sales Data by Quarter\bin\Debug\net9.0\Store Sales Data by Quarter.pdb
+M:\C#\23\Jagged Array\Store Sales Data by Quarter\obj\Debug\net9.0\Store Sales Data by Quarter.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Jagged Array\Store Sales Data by Quarter\obj\Debug\net9.0\Store Sales Data by Quarter.AssemblyInfoInputs.cache
+M:\C#\23\Jagged Array\Store Sales Data by Quarter\obj\Debug\net9.0\Store Sales Data by Quarter.AssemblyInfo.cs
+M:\C#\23\Jagged Array\Store Sales Data by Quarter\obj\Debug\net9.0\Store Sales Data by Quarter.csproj.CoreCompileInputs.cache
+M:\C#\23\Jagged Array\Store Sales Data by Quarter\obj\Debug\net9.0\Store Sales Data by Quarter.dll
+M:\C#\23\Jagged Array\Store Sales Data by Quarter\obj\Debug\net9.0\refint\Store Sales Data by Quarter.dll
+M:\C#\23\Jagged Array\Store Sales Data by Quarter\obj\Debug\net9.0\Store Sales Data by Quarter.pdb
+M:\C#\23\Jagged Array\Store Sales Data by Quarter\obj\Debug\net9.0\Store Sales Data by Quarter.genruntimeconfig.cache
+M:\C#\23\Jagged Array\Store Sales Data by Quarter\obj\Debug\net9.0\ref\Store Sales Data by Quarter.dll

@@ -1,0 +1,14 @@
+M:\C#\23\Sorted Set\DynamicListStudents\bin\Debug\net9.0\DynamicListStudents.exe
+M:\C#\23\Sorted Set\DynamicListStudents\bin\Debug\net9.0\DynamicListStudents.deps.json
+M:\C#\23\Sorted Set\DynamicListStudents\bin\Debug\net9.0\DynamicListStudents.runtimeconfig.json
+M:\C#\23\Sorted Set\DynamicListStudents\bin\Debug\net9.0\DynamicListStudents.dll
+M:\C#\23\Sorted Set\DynamicListStudents\bin\Debug\net9.0\DynamicListStudents.pdb
+M:\C#\23\Sorted Set\DynamicListStudents\obj\Debug\net9.0\DynamicListStudents.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Sorted Set\DynamicListStudents\obj\Debug\net9.0\DynamicListStudents.AssemblyInfoInputs.cache
+M:\C#\23\Sorted Set\DynamicListStudents\obj\Debug\net9.0\DynamicListStudents.AssemblyInfo.cs
+M:\C#\23\Sorted Set\DynamicListStudents\obj\Debug\net9.0\DynamicListStudents.csproj.CoreCompileInputs.cache
+M:\C#\23\Sorted Set\DynamicListStudents\obj\Debug\net9.0\DynamicListStudents.dll
+M:\C#\23\Sorted Set\DynamicListStudents\obj\Debug\net9.0\refint\DynamicListStudents.dll
+M:\C#\23\Sorted Set\DynamicListStudents\obj\Debug\net9.0\DynamicListStudents.pdb
+M:\C#\23\Sorted Set\DynamicListStudents\obj\Debug\net9.0\DynamicListStudents.genruntimeconfig.cache
+M:\C#\23\Sorted Set\DynamicListStudents\obj\Debug\net9.0\ref\DynamicListStudents.dll

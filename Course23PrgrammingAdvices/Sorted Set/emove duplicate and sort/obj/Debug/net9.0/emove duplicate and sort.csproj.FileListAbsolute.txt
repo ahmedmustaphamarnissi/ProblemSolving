@@ -1,0 +1,14 @@
+M:\C#\23\Sorted Set\emove duplicate and sort\bin\Debug\net9.0\emove duplicate and sort.exe
+M:\C#\23\Sorted Set\emove duplicate and sort\bin\Debug\net9.0\emove duplicate and sort.deps.json
+M:\C#\23\Sorted Set\emove duplicate and sort\bin\Debug\net9.0\emove duplicate and sort.runtimeconfig.json
+M:\C#\23\Sorted Set\emove duplicate and sort\bin\Debug\net9.0\emove duplicate and sort.dll
+M:\C#\23\Sorted Set\emove duplicate and sort\bin\Debug\net9.0\emove duplicate and sort.pdb
+M:\C#\23\Sorted Set\emove duplicate and sort\obj\Debug\net9.0\emove duplicate and sort.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Sorted Set\emove duplicate and sort\obj\Debug\net9.0\emove duplicate and sort.AssemblyInfoInputs.cache
+M:\C#\23\Sorted Set\emove duplicate and sort\obj\Debug\net9.0\emove duplicate and sort.AssemblyInfo.cs
+M:\C#\23\Sorted Set\emove duplicate and sort\obj\Debug\net9.0\emove duplicate and sort.csproj.CoreCompileInputs.cache
+M:\C#\23\Sorted Set\emove duplicate and sort\obj\Debug\net9.0\emove duplicate and sort.dll
+M:\C#\23\Sorted Set\emove duplicate and sort\obj\Debug\net9.0\refint\emove duplicate and sort.dll
+M:\C#\23\Sorted Set\emove duplicate and sort\obj\Debug\net9.0\emove duplicate and sort.pdb
+M:\C#\23\Sorted Set\emove duplicate and sort\obj\Debug\net9.0\emove duplicate and sort.genruntimeconfig.cache
+M:\C#\23\Sorted Set\emove duplicate and sort\obj\Debug\net9.0\ref\emove duplicate and sort.dll

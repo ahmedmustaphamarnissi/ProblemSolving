@@ -1,0 +1,14 @@
+M:\C#\23\Queue\queue reverce\bin\Debug\net8.0\queue reverce.exe
+M:\C#\23\Queue\queue reverce\bin\Debug\net8.0\queue reverce.deps.json
+M:\C#\23\Queue\queue reverce\bin\Debug\net8.0\queue reverce.runtimeconfig.json
+M:\C#\23\Queue\queue reverce\bin\Debug\net8.0\queue reverce.dll
+M:\C#\23\Queue\queue reverce\bin\Debug\net8.0\queue reverce.pdb
+M:\C#\23\Queue\queue reverce\obj\Debug\net8.0\queue reverce.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Queue\queue reverce\obj\Debug\net8.0\queue reverce.AssemblyInfoInputs.cache
+M:\C#\23\Queue\queue reverce\obj\Debug\net8.0\queue reverce.AssemblyInfo.cs
+M:\C#\23\Queue\queue reverce\obj\Debug\net8.0\queue reverce.csproj.CoreCompileInputs.cache
+M:\C#\23\Queue\queue reverce\obj\Debug\net8.0\queue reverce.dll
+M:\C#\23\Queue\queue reverce\obj\Debug\net8.0\refint\queue reverce.dll
+M:\C#\23\Queue\queue reverce\obj\Debug\net8.0\queue reverce.pdb
+M:\C#\23\Queue\queue reverce\obj\Debug\net8.0\queue reverce.genruntimeconfig.cache
+M:\C#\23\Queue\queue reverce\obj\Debug\net8.0\ref\queue reverce.dll

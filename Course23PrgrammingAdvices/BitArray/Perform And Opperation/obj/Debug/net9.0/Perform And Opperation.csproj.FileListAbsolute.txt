@@ -1,0 +1,14 @@
+M:\C#\23\BitArray\Perform And Opperation\bin\Debug\net9.0\Perform And Opperation.exe
+M:\C#\23\BitArray\Perform And Opperation\bin\Debug\net9.0\Perform And Opperation.deps.json
+M:\C#\23\BitArray\Perform And Opperation\bin\Debug\net9.0\Perform And Opperation.runtimeconfig.json
+M:\C#\23\BitArray\Perform And Opperation\bin\Debug\net9.0\Perform And Opperation.dll
+M:\C#\23\BitArray\Perform And Opperation\bin\Debug\net9.0\Perform And Opperation.pdb
+M:\C#\23\BitArray\Perform And Opperation\obj\Debug\net9.0\Perform And Opperation.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\BitArray\Perform And Opperation\obj\Debug\net9.0\Perform And Opperation.AssemblyInfoInputs.cache
+M:\C#\23\BitArray\Perform And Opperation\obj\Debug\net9.0\Perform And Opperation.AssemblyInfo.cs
+M:\C#\23\BitArray\Perform And Opperation\obj\Debug\net9.0\Perform And Opperation.csproj.CoreCompileInputs.cache
+M:\C#\23\BitArray\Perform And Opperation\obj\Debug\net9.0\Perform And Opperation.dll
+M:\C#\23\BitArray\Perform And Opperation\obj\Debug\net9.0\refint\Perform And Opperation.dll
+M:\C#\23\BitArray\Perform And Opperation\obj\Debug\net9.0\Perform And Opperation.pdb
+M:\C#\23\BitArray\Perform And Opperation\obj\Debug\net9.0\Perform And Opperation.genruntimeconfig.cache
+M:\C#\23\BitArray\Perform And Opperation\obj\Debug\net9.0\ref\Perform And Opperation.dll

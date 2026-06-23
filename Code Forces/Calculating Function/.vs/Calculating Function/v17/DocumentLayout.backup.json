@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\Code Forces\\Calculating Function\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5336AB21-E06C-4508-9FA6-20EA767691BE}|Calculating Function.vcxproj|M:\\PS\\Code Forces\\Calculating Function\\Calculating Function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5336AB21-E06C-4508-9FA6-20EA767691BE}|Calculating Function.vcxproj|solutionrelative:Calculating Function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculating Function.cpp",
+              "DocumentMoniker": "M:\\PS\\Code Forces\\Calculating Function\\Calculating Function.cpp",
+              "RelativeDocumentMoniker": "Calculating Function.cpp",
+              "ToolTip": "M:\\PS\\Code Forces\\Calculating Function\\Calculating Function.cpp*",
+              "RelativeToolTip": "Calculating Function.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-01T10:35:12.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

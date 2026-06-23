@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\CSES\\Weird problem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDF301E-5ECF-47E9-816A-FBFCF2ADF3D8}|Weird problem.vcxproj|M:\\PS\\CSES\\Weird problem\\Weird problem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDDF301E-5ECF-47E9-816A-FBFCF2ADF3D8}|Weird problem.vcxproj|solutionrelative:Weird problem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weird problem.cpp",
+              "DocumentMoniker": "M:\\PS\\CSES\\Weird problem\\Weird problem.cpp",
+              "RelativeDocumentMoniker": "Weird problem.cpp",
+              "ToolTip": "M:\\PS\\CSES\\Weird problem\\Weird problem.cpp",
+              "RelativeToolTip": "Weird problem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-06T21:20:57.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

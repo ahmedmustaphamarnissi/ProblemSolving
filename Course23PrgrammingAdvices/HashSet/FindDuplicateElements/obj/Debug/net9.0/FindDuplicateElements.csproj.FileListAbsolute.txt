@@ -1,0 +1,14 @@
+M:\C#\23\HashSet\FindDuplicateElements\bin\Debug\net9.0\FindDuplicateElements.exe
+M:\C#\23\HashSet\FindDuplicateElements\bin\Debug\net9.0\FindDuplicateElements.deps.json
+M:\C#\23\HashSet\FindDuplicateElements\bin\Debug\net9.0\FindDuplicateElements.runtimeconfig.json
+M:\C#\23\HashSet\FindDuplicateElements\bin\Debug\net9.0\FindDuplicateElements.dll
+M:\C#\23\HashSet\FindDuplicateElements\bin\Debug\net9.0\FindDuplicateElements.pdb
+M:\C#\23\HashSet\FindDuplicateElements\obj\Debug\net9.0\FindDuplicateElements.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\HashSet\FindDuplicateElements\obj\Debug\net9.0\FindDuplicateElements.AssemblyInfoInputs.cache
+M:\C#\23\HashSet\FindDuplicateElements\obj\Debug\net9.0\FindDuplicateElements.AssemblyInfo.cs
+M:\C#\23\HashSet\FindDuplicateElements\obj\Debug\net9.0\FindDuplicateElements.csproj.CoreCompileInputs.cache
+M:\C#\23\HashSet\FindDuplicateElements\obj\Debug\net9.0\FindDuplicateElements.dll
+M:\C#\23\HashSet\FindDuplicateElements\obj\Debug\net9.0\refint\FindDuplicateElements.dll
+M:\C#\23\HashSet\FindDuplicateElements\obj\Debug\net9.0\FindDuplicateElements.pdb
+M:\C#\23\HashSet\FindDuplicateElements\obj\Debug\net9.0\FindDuplicateElements.genruntimeconfig.cache
+M:\C#\23\HashSet\FindDuplicateElements\obj\Debug\net9.0\ref\FindDuplicateElements.dll

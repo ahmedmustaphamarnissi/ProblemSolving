@@ -1,0 +1,14 @@
+M:\C#\23\Stack\EvaluatePostfixExpression\bin\Debug\net8.0\EvaluatePostfixExpression.exe
+M:\C#\23\Stack\EvaluatePostfixExpression\bin\Debug\net8.0\EvaluatePostfixExpression.deps.json
+M:\C#\23\Stack\EvaluatePostfixExpression\bin\Debug\net8.0\EvaluatePostfixExpression.runtimeconfig.json
+M:\C#\23\Stack\EvaluatePostfixExpression\bin\Debug\net8.0\EvaluatePostfixExpression.dll
+M:\C#\23\Stack\EvaluatePostfixExpression\bin\Debug\net8.0\EvaluatePostfixExpression.pdb
+M:\C#\23\Stack\EvaluatePostfixExpression\obj\Debug\net8.0\EvaluatePostfixExpression.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Stack\EvaluatePostfixExpression\obj\Debug\net8.0\EvaluatePostfixExpression.AssemblyInfoInputs.cache
+M:\C#\23\Stack\EvaluatePostfixExpression\obj\Debug\net8.0\EvaluatePostfixExpression.AssemblyInfo.cs
+M:\C#\23\Stack\EvaluatePostfixExpression\obj\Debug\net8.0\EvaluatePostfixExpression.csproj.CoreCompileInputs.cache
+M:\C#\23\Stack\EvaluatePostfixExpression\obj\Debug\net8.0\EvaluatePostfixExpression.dll
+M:\C#\23\Stack\EvaluatePostfixExpression\obj\Debug\net8.0\refint\EvaluatePostfixExpression.dll
+M:\C#\23\Stack\EvaluatePostfixExpression\obj\Debug\net8.0\EvaluatePostfixExpression.pdb
+M:\C#\23\Stack\EvaluatePostfixExpression\obj\Debug\net8.0\EvaluatePostfixExpression.genruntimeconfig.cache
+M:\C#\23\Stack\EvaluatePostfixExpression\obj\Debug\net8.0\ref\EvaluatePostfixExpression.dll

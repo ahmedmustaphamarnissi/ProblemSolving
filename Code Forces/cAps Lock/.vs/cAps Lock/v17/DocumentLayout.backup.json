@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\Code Forces\\cAps Lock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{165F3A28-F2FC-4BA1-B933-A37CD3F8F08A}|cAps Lock.vcxproj|M:\\PS\\Code Forces\\cAps Lock\\cAps Lock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{165F3A28-F2FC-4BA1-B933-A37CD3F8F08A}|cAps Lock.vcxproj|solutionrelative:cAps Lock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cAps Lock.cpp",
+              "DocumentMoniker": "M:\\PS\\Code Forces\\cAps Lock\\cAps Lock.cpp",
+              "RelativeDocumentMoniker": "cAps Lock.cpp",
+              "ToolTip": "M:\\PS\\Code Forces\\cAps Lock\\cAps Lock.cpp",
+              "RelativeToolTip": "cAps Lock.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-16T13:00:08.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

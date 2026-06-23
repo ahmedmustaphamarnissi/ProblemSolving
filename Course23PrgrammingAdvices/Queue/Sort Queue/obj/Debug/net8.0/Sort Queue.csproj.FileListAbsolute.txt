@@ -1,0 +1,14 @@
+M:\C#\23\Queue\Sort Queue\bin\Debug\net8.0\Sort Queue.exe
+M:\C#\23\Queue\Sort Queue\bin\Debug\net8.0\Sort Queue.deps.json
+M:\C#\23\Queue\Sort Queue\bin\Debug\net8.0\Sort Queue.runtimeconfig.json
+M:\C#\23\Queue\Sort Queue\bin\Debug\net8.0\Sort Queue.dll
+M:\C#\23\Queue\Sort Queue\bin\Debug\net8.0\Sort Queue.pdb
+M:\C#\23\Queue\Sort Queue\obj\Debug\net8.0\Sort Queue.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\23\Queue\Sort Queue\obj\Debug\net8.0\Sort Queue.AssemblyInfoInputs.cache
+M:\C#\23\Queue\Sort Queue\obj\Debug\net8.0\Sort Queue.AssemblyInfo.cs
+M:\C#\23\Queue\Sort Queue\obj\Debug\net8.0\Sort Queue.csproj.CoreCompileInputs.cache
+M:\C#\23\Queue\Sort Queue\obj\Debug\net8.0\Sort Queue.dll
+M:\C#\23\Queue\Sort Queue\obj\Debug\net8.0\refint\Sort Queue.dll
+M:\C#\23\Queue\Sort Queue\obj\Debug\net8.0\Sort Queue.pdb
+M:\C#\23\Queue\Sort Queue\obj\Debug\net8.0\Sort Queue.genruntimeconfig.cache
+M:\C#\23\Queue\Sort Queue\obj\Debug\net8.0\ref\Sort Queue.dll
