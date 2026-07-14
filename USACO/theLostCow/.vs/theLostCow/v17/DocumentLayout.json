@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\USACO\\theLostCow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{226937CF-4CD0-4F4E-BB95-18CEAFCAEACF}|theLostCow.vcxproj|M:\\PS\\USACO\\theLostCow\\theLostCow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226937CF-4CD0-4F4E-BB95-18CEAFCAEACF}|theLostCow.vcxproj|solutionrelative:theLostCow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "theLostCow.cpp",
+              "DocumentMoniker": "M:\\PS\\USACO\\theLostCow\\theLostCow.cpp",
+              "RelativeDocumentMoniker": "theLostCow.cpp",
+              "ToolTip": "M:\\PS\\USACO\\theLostCow\\theLostCow.cpp",
+              "RelativeToolTip": "theLostCow.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-27T21:46:22.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

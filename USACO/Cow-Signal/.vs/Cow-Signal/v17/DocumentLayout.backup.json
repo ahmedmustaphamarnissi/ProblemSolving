@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\USACO\\Cow-Signal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97019573-290C-49F5-9211-26A477FDC9E0}|Cow-Signal.vcxproj|M:\\PS\\USACO\\Cow-Signal\\Cow-Signal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97019573-290C-49F5-9211-26A477FDC9E0}|Cow-Signal.vcxproj|solutionrelative:Cow-Signal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cow-Signal.cpp",
+              "DocumentMoniker": "M:\\PS\\USACO\\Cow-Signal\\Cow-Signal.cpp",
+              "RelativeDocumentMoniker": "Cow-Signal.cpp",
+              "ToolTip": "M:\\PS\\USACO\\Cow-Signal\\Cow-Signal.cpp",
+              "RelativeToolTip": "Cow-Signal.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-25T21:26:32.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

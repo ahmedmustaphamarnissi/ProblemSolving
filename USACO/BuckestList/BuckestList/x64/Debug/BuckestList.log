@@ -1,0 +1,31 @@
+﻿  BuckestList.cpp
+M:\PS\USACO\BuckestList\BuckestList.cpp(17,23): error C2027: use of undefined type 'std::array<int,3>'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(167,7):
+      see declaration of 'std::array<int,3>'
+  
+M:\PS\USACO\BuckestList\BuckestList.cpp(22,17): error C2036: '_Ty *': unknown size
+M:\PS\USACO\BuckestList\BuckestList.cpp(22,17): error C2036:         with
+M:\PS\USACO\BuckestList\BuckestList.cpp(22,17): error C2036:         [
+M:\PS\USACO\BuckestList\BuckestList.cpp(22,17): error C2036:             _Ty=std::array<int,3>
+M:\PS\USACO\BuckestList\BuckestList.cpp(22,17): error C2036:         ]
+M:\PS\USACO\BuckestList\BuckestList.cpp(22,18): error C2027: use of undefined type 'std::array<int,3>'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(167,7):
+      see declaration of 'std::array<int,3>'
+  
+M:\PS\USACO\BuckestList\BuckestList.cpp(23,20): error C2676: binary '[': '_Ty' does not define this operator or a conversion to a type acceptable to the predefined operator
+M:\PS\USACO\BuckestList\BuckestList.cpp(23,20): error C2676:         with
+M:\PS\USACO\BuckestList\BuckestList.cpp(23,20): error C2676:         [
+M:\PS\USACO\BuckestList\BuckestList.cpp(23,20): error C2676:             _Ty=std::array<int,3>
+M:\PS\USACO\BuckestList\BuckestList.cpp(23,20): error C2676:         ]
+M:\PS\USACO\BuckestList\BuckestList.cpp(23,35): error C2676: binary '[': '_Ty' does not define this operator or a conversion to a type acceptable to the predefined operator
+M:\PS\USACO\BuckestList\BuckestList.cpp(23,35): error C2676:         with
+M:\PS\USACO\BuckestList\BuckestList.cpp(23,35): error C2676:         [
+M:\PS\USACO\BuckestList\BuckestList.cpp(23,35): error C2676:             _Ty=std::array<int,3>
+M:\PS\USACO\BuckestList\BuckestList.cpp(23,35): error C2676:         ]
+M:\PS\USACO\BuckestList\BuckestList.cpp(24,21): error C2676: binary '[': '_Ty' does not define this operator or a conversion to a type acceptable to the predefined operator
+M:\PS\USACO\BuckestList\BuckestList.cpp(24,21): error C2676:         with
+M:\PS\USACO\BuckestList\BuckestList.cpp(24,21): error C2676:         [
+M:\PS\USACO\BuckestList\BuckestList.cpp(24,21): error C2676:             _Ty=std::array<int,3>
+M:\PS\USACO\BuckestList\BuckestList.cpp(24,21): error C2676:         ]
+M:\PS\USACO\BuckestList\BuckestList.cpp(7,2): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+M:\PS\USACO\BuckestList\BuckestList.cpp(8,2): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

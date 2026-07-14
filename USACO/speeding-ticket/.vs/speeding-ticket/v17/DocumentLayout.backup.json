@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\USACO\\speeding-ticket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD0AB7C-90CE-4152-BDF8-FE9754B7A7F1}|speeding-ticket.vcxproj|M:\\PS\\USACO\\speeding-ticket\\speeding-ticket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AD0AB7C-90CE-4152-BDF8-FE9754B7A7F1}|speeding-ticket.vcxproj|solutionrelative:speeding-ticket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "speeding-ticket.cpp",
+              "DocumentMoniker": "M:\\PS\\USACO\\speeding-ticket\\speeding-ticket.cpp",
+              "RelativeDocumentMoniker": "speeding-ticket.cpp",
+              "ToolTip": "M:\\PS\\USACO\\speeding-ticket\\speeding-ticket.cpp*",
+              "RelativeToolTip": "speeding-ticket.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-27T21:02:05.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
