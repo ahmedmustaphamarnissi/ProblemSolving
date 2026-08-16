@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\Code Forces\\Extremely Round\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE4DCE7-B9F9-4B0B-B412-D32A97AFE1ED}|Extremely Round.vcxproj|M:\\PS\\Code Forces\\Extremely Round\\Extremely Round.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDE4DCE7-B9F9-4B0B-B412-D32A97AFE1ED}|Extremely Round.vcxproj|solutionrelative:Extremely Round.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Extremely Round.cpp",
+              "DocumentMoniker": "M:\\PS\\Code Forces\\Extremely Round\\Extremely Round.cpp",
+              "RelativeDocumentMoniker": "Extremely Round.cpp",
+              "ToolTip": "M:\\PS\\Code Forces\\Extremely Round\\Extremely Round.cpp",
+              "RelativeToolTip": "Extremely Round.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-27T00:14:23.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

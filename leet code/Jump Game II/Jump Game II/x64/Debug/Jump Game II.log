@@ -1,0 +1,7 @@
+﻿  Jump Game II.cpp
+M:\PS\leet code\Jump Game II\Jump Game II.cpp(8,31): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+M:\PS\leet code\Jump Game II\Jump Game II.cpp(8,31): warning C4244:         with
+M:\PS\leet code\Jump Game II\Jump Game II.cpp(8,31): warning C4244:         [
+M:\PS\leet code\Jump Game II\Jump Game II.cpp(8,31): warning C4244:             _Ty=int
+M:\PS\leet code\Jump Game II\Jump Game II.cpp(8,31): warning C4244:         ]
+  Jump Game II.vcxproj -> M:\PS\leet code\Jump Game II\x64\Debug\Jump Game II.exe

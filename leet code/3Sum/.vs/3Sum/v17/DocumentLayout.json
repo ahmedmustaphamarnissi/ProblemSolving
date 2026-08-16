@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\leet code\\3Sum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08D31847-17B1-4AE8-81DF-7E79AEA5EB3A}|3Sum.vcxproj|M:\\PS\\leet code\\3Sum\\3Sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08D31847-17B1-4AE8-81DF-7E79AEA5EB3A}|3Sum.vcxproj|solutionrelative:3Sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3Sum.cpp",
+              "DocumentMoniker": "M:\\PS\\leet code\\3Sum\\3Sum.cpp",
+              "RelativeDocumentMoniker": "3Sum.cpp",
+              "ToolTip": "M:\\PS\\leet code\\3Sum\\3Sum.cpp",
+              "RelativeToolTip": "3Sum.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-30T22:05:35.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\leet code\\Best Time to Buy and Sell Stock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{245C3BC5-12EB-4EC3-80CD-8E16782E9106}|Best Time to Buy and Sell Stock.vcxproj|M:\\PS\\leet code\\Best Time to Buy and Sell Stock\\Best Time to Buy and Sell Stock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{245C3BC5-12EB-4EC3-80CD-8E16782E9106}|Best Time to Buy and Sell Stock.vcxproj|solutionrelative:Best Time to Buy and Sell Stock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Best Time to Buy and Sell Stock.cpp",
+              "DocumentMoniker": "M:\\PS\\leet code\\Best Time to Buy and Sell Stock\\Best Time to Buy and Sell Stock.cpp",
+              "RelativeDocumentMoniker": "Best Time to Buy and Sell Stock.cpp",
+              "ToolTip": "M:\\PS\\leet code\\Best Time to Buy and Sell Stock\\Best Time to Buy and Sell Stock.cpp",
+              "RelativeToolTip": "Best Time to Buy and Sell Stock.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-16T00:27:03.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

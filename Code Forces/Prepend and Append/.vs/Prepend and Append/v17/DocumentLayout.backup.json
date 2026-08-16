@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\PS\\Code Forces\\Prepend and Append\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C701921-2389-4C6B-9CF5-B1DD1B68B2AF}|Prepend and Append.vcxproj|M:\\PS\\Code Forces\\Prepend and Append\\Prepend and Append.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C701921-2389-4C6B-9CF5-B1DD1B68B2AF}|Prepend and Append.vcxproj|solutionrelative:Prepend and Append.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prepend and Append.cpp",
+              "DocumentMoniker": "M:\\PS\\Code Forces\\Prepend and Append\\Prepend and Append.cpp",
+              "RelativeDocumentMoniker": "Prepend and Append.cpp",
+              "ToolTip": "M:\\PS\\Code Forces\\Prepend and Append\\Prepend and Append.cpp*",
+              "RelativeToolTip": "Prepend and Append.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-20T21:30:10.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

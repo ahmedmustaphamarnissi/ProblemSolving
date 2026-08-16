@@ -1,0 +1,12 @@
+﻿  Serval and Mocha's Array.cpp
+M:\PS\Code Forces\Serval and Mocha's Array\Serval and Mocha's Array.cpp(33,22): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+M:\PS\Code Forces\Serval and Mocha's Array\Serval and Mocha's Array.cpp(33,22): warning C4244:         with
+M:\PS\Code Forces\Serval and Mocha's Array\Serval and Mocha's Array.cpp(33,22): warning C4244:         [
+M:\PS\Code Forces\Serval and Mocha's Array\Serval and Mocha's Array.cpp(33,22): warning C4244:             _Ty=__int64
+M:\PS\Code Forces\Serval and Mocha's Array\Serval and Mocha's Array.cpp(33,22): warning C4244:         ]
+M:\PS\Code Forces\Serval and Mocha's Array\Serval and Mocha's Array.cpp(33,16): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+M:\PS\Code Forces\Serval and Mocha's Array\Serval and Mocha's Array.cpp(33,16): warning C4244:         with
+M:\PS\Code Forces\Serval and Mocha's Array\Serval and Mocha's Array.cpp(33,16): warning C4244:         [
+M:\PS\Code Forces\Serval and Mocha's Array\Serval and Mocha's Array.cpp(33,16): warning C4244:             _Ty=__int64
+M:\PS\Code Forces\Serval and Mocha's Array\Serval and Mocha's Array.cpp(33,16): warning C4244:         ]
+  Serval and Mocha's Array.vcxproj -> M:\PS\Code Forces\Serval and Mocha's Array\x64\Debug\Serval and Mocha's Array.exe
